@@ -1,5 +1,4 @@
 <h1 align="center"> Hi there, I'm <a href="https://www.linkedin.com/in/krajtilak2020">K Rajtilak</a> </h1>
-
 <!--- Adding Header Elements -->
 <p align="center">
   <a href="https://krajtilak.vercel.app/">Website</a> -
@@ -9,16 +8,18 @@
   <a href="https://krajtilak.vercel.app/#contact">Contact</a> 
 </p>
 
------------------------------------------------------------
-👨🏻‍💻 **About Me**:-
+
+**👨🏻‍💻 About Me:-**
 <img src="https://raw.githubusercontent.com/sanjay-kv/sanjay-kv/main/Assets/illustration.png" min-width="300px" max-width="300px" width="350px" align="right"> 
 <br>
 ✨ I'm a Computer Science & Engineering Student <br>
-⚡ Check my ✨ [Website](https://krajtilak.vercel.app)<br>
+⚡ Check out my [Projects](https://rajtilak-2020.github.io/portfolio-project-gallery/)<br>
 🔭 I'm a tech enthusiast<br>
 💬 Ask me about Web Development and IoT<br>
-<!--- Adding Tech Stack open Section -->
-<br><br>
+<br>
+As a passionate Computer Science Engineering student, I strive to bridge the gap between innovative ideas and transformative technologies. I focus on crafting solutions that redefine possibilities.
+In addition to my technical skills, I bring a strong command of presentation abilities, Microsoft Office proficiency,and a solid understanding of computer hardware. Through my certifications in Artificial Intelligence Fundamentals, Generative AI, Machine Learning, and as a Cloud Innovator, I have developed a keen insight into the current technological landscape and emerging innovations.
+I specialize in crafting innovative solutions across diverse technology domains. From building intelligent robotics and IoT systems to delivering impactful presentations and scalable software, my expertise bridges the gap between creativity and technical precision. Whether it's developing AI-driven applications, securing data, or leading collaborative GitHub projects, I am dedicated to driving progress and delivering excellence. Explore the services below to see how I can bring value to your ideas and projects.
 <br><br>
 
 **⚙️ My GitHub Analytics**
