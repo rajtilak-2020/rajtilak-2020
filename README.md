@@ -17,7 +17,7 @@
 - 🔄 A tech enthusiast passionate about Robotics, IoT, and AI.
 - ❝ Ask me about Web Development and IoT.
 
-As a passionate Computer Science Engineering student, I strive to bridge the gap between innovative ideas and transformative technologies. My expertise includes **web development**, **robotics**, **IoT systems**, and **collaborative GitHub projects**.
+A passionate Computer & Science Engineering student, I strive to bridge the gap between innovative ideas and transformative technologies. My expertise includes **web development**, **robotics**, **IoT systems**, and **collaborative GitHub projects**.
 
 ---
 
