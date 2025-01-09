@@ -28,8 +28,8 @@ I specialize in crafting innovative solutions across diverse technology domains.
 <img src="http://github-profile-summary-cards-ndtwn1pg1.vercel.app/api/cards/profile-details?username=rajtilak-2020&theme=midnight_purple"> 
 <img src="http://github-profile-summary-cards-ndtwn1pg1.vercel.app/api/cards/repos-per-language?username=rajtilak-2020&theme=midnight_purple">
 <img src="http://github-profile-summary-cards-ndtwn1pg1.vercel.app/api/cards/stats?username=rajtilak-2020&theme=midnight_purple">
-<img src="http://github-profile-summary-cards-ndtwn1pg1.vercel.app/api/cards/productive-time?username=rajtilak-2020&theme=midnight_purple&utcOffset=8">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=rajtilak-2020&theme=midnight-purple&hide_border=true">
+<img src="http://github-profile-summary-cards-ndtwn1pg1.vercel.app/api/cards/productive-time?username=rajtilak-2020&theme=midnight_purple&utcOffset=8">
 </div>
 
 ----------------------------------------------------------
