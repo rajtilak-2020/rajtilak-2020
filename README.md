@@ -79,20 +79,11 @@ const krajtilak = {
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote">
 </div>
 
-<!-- Animated Snake -->
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/rajtilak-2020/rajtilak-2020/blob/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://github.com/rajtilak-2020/rajtilak-2020/blob/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://github.com/rajtilak-2020/rajtilak-2020/blob/output/github-contribution-grid-snake.svg">
-  </picture>
-
-
 <!-- Support Section -->
 <h2 align="left">☕️ Support My Work
 <!-- Animated Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<div align="center">
+<div align="left">
   <a href="https://buymeacoffee.com/k.raj_tilak2020">
     <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black&border_radius=10" alt="Buy Me A Coffee">
   </a>
