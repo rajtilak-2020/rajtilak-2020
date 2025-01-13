@@ -1,88 +1,113 @@
-<h1 align="center">Hi there, I'm <a href="https://www.linkedin.com/in/krajtilak2020">K Rajtilak</a> 👋</h1>
+<!-- Animated Header -->
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=40&pause=1000&color=6842FF&center=true&vCenter=true&random=false&width=500&height=70&lines=Hi+there!+%F0%9F%91%8B;I'm+K+Rajtilak;" alt="Typing SVG"/>
+  <!-- Animated Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
+
+<!-- Profile Views Counter -->
 <p align="center">
-  <a href="https://krajtilak.vercel.app/">Website</a> |
-  <a href="https://www.linkedin.com/in/krajtilak2020">LinkedIn</a> |
-  <a href="https://x.com/2020rajtilak">X</a> |
-  <a href="https://instagram.com/k.raj_tilak2020">Instagram</a> |
-  <a href="https://krajtilak.vercel.app/#contact">Contact</a>
+  <img src="https://komarev.com/ghpvc/?username=rajtilak-2020&style=for-the-badge&color=blueviolet&border_radius=10" alt="Profile Views">
 </p>
 
+<!-- Social Links with Hover Effect and Rounded Corners -->
+<div align="center">
+  <a href="https://krajtilak.vercel.app/" title="Portfolio"><img src="https://img.shields.io/badge/Website-4A154B?style=for-the-badge&logo=web&logoColor=white&border_radius=10"/></a>
+  <a href="https://www.linkedin.com/in/krajtilak2020" title="LinkedIn"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&border_radius=10"/></a>
+  <a href="https://x.com/2020rajtilak" title="X (Twitter)"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white&border_radius=10"/></a>
+  <a href="https://instagram.com/k.raj_tilak2020" title="Instagram"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&border_radius=10"/></a>
+  <a href="https://stackoverflow.com/users/26817244"><img src="https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white&border_radius=10"/></a>
+  <a href="https://codepen.io/K-Rajtilak"><img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white&border_radius=10"/></a>
+  <a href="https://www.facebook.com/profile.php?id=100073801447447"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white&border_radius=10"/></a>
+  <a href="https://reddit.com/user/rajtilak2020"><img src="https://img.shields.io/badge/Reddit-%23FF4500.svg?style=for-the-badge&logo=Reddit&logoColor=white&border_radius=10"/></a>
+</div>
+
+<!-- Animated Wave -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header"/>
 
 ## 👨🏻‍💻 About Me
-<img src="https://raw.githubusercontent.com/sanjay-kv/sanjay-kv/main/Assets/illustration.png" alt="Illustration" width="350px" align="right">
+<img src="https://raw.githubusercontent.com/sanjay-kv/sanjay-kv/main/Assets/illustration.png" width="350px" align="right" alt="Coding illustration">
 
-- ✨ I'm a **Computer Science & Engineering Student**.
-- ⚡ Check out my [Projects](https://rajtilak-2020.github.io/portfolio-project-gallery/).
-- 🔄 A tech enthusiast passionate about Robotics, IoT, and AI.
-- ❝ Ask me about Web Development and IoT.
+```javascript
+const krajtilak = {
+    Education: "Computer Science & Engineering",
+    Passion: ["Web Development", "Robotics", "IoT", "AI"],
+    Website: "krajtilak.vercel.app",
+    CurrentFocus: "Bridging innovative ideas with transformative technologies"
+};
+```
+<p align="left">
+  A passionate Computer & Science Engineering student, I strive to bridge the gap between innovative ideas and transformative technologies. My expertise includes <b>web development</b>, <b>robotics</b>, <b>IoT systems</b>, and <b>collaborative GitHub projects</b>.
+</p>
 
-A passionate Computer & Science Engineering student, I strive to bridge the gap between innovative ideas and transformative technologies. My expertise includes **web development**, **robotics**, **IoT systems**, and **collaborative GitHub projects**.
+<!-- Animated Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
----
-
-## ⚙️ GitHub Analytics
-<div align="left">
-  <img src="http://github-profile-summary-cards-ndtwn1pg1.vercel.app/api/cards/profile-details?username=rajtilak-2020&theme=midnight_purple" alt="Profile Details">
-  <img src="http://github-profile-summary-cards-ndtwn1pg1.vercel.app/api/cards/repos-per-language?username=rajtilak-2020&theme=midnight_purple" alt="Repos Per Language">
-  <img src="http://github-profile-summary-cards-ndtwn1pg1.vercel.app/api/cards/stats?username=rajtilak-2020&theme=midnight_purple" alt="Stats">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rajtilak-2020&theme=midnight-purple&hide_border=true" alt="GitHub Streak">
-  <img src="http://github-profile-summary-cards-ndtwn1pg1.vercel.app/api/cards/productive-time?username=rajtilak-2020&theme=midnight_purple&utcOffset=8" alt="Productive Time">
-</div>
-
----
-
-## 🏆 GitHub Trophies
+<!-- Skills Animation -->
+<h2 align="left">🛠️ Technologies & Tools</h2>
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=rajtilak-2020&theme=radical&no-frame=true&no-bg=false&margin-w=4" alt="GitHub Trophies">
+  <img src="https://skillicons.dev/icons?i=js,python,cpp,arduino,html,css,react,nodejs,git,vscode&theme=dark" alt="Skills">
 </div>
 
----
+<!-- Animated Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## 🌐 Socials
+<!-- GitHub Stats with Animation -->
+<h2 align="center">📊 GitHub Statistics
+<!-- Animated Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<!-- Stats Grid Layout -->
 <div align="center">
-  <a href="https://linkedin.com/in/krajtilak2020"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white"></a>
-  <a href="https://x.com/2020rajtilak"><img src="https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white"></a>
-  <a href="https://stackoverflow.com/users/26817244"><img src="https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white"></a>
-  <a href="https://codepen.io/K-Rajtilak"><img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white"></a>
-  <a href="https://instagram.com/k.raj_tilak2020"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white"></a>
-  <a href="https://www.facebook.com/profile.php?id=100073801447447"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white"></a>
-  <a href="https://pinterest.com/rajtilak1062020"><img src="https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white"></a>
-  <a href="https://reddit.com/user/rajtilak2020"><img src="https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white"></a>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rajtilak-2020&theme=midnight_purple" alt="Activity Graph"/>
+  <div style="display: flex;">
+    <img  src="https://github-readme-streak-stats.herokuapp.com/?user=rajtilak-2020&theme=midnight-purple&hide_border=true" alt="GitHub Streak"/>
+    <img  src="https://github-readme-stats.vercel.app/api?username=rajtilak-2020&show_icons=true&theme=midnight-purple&hide_border=true" alt="GitHub Stats"/>
+  </div>
+  <div>
+    <img  src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rajtilak-2020&theme=midnight_purple" alt="Repos Per Language"/>
+    <img  src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=rajtilak-2020&theme=midnight_purple&utcOffset=8" alt="Productive Time"/>
+  </div>
 </div>
 
----
+<!-- Animated Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## 💻 Tech Stack
+<!-- Trophies with Animation -->
+<h2 align="center">🏆 GitHub Trophies
+<!-- Animated Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <div align="center">
-  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript">
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python">
-  <img src="https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white" alt="Arduino">
-  <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++">
-  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
+  <img src="https://github-profile-trophy.vercel.app/?username=rajtilak-2020&theme=darkhub&no-frame=true&no-bg=true&column=9&margin-w=15&margin-h=15" width="100%" alt="Trophies">
 </div>
 
----
+<!-- Animated Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-### ✍️ Random Dev Quote
-<div align="left">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote">
+<!-- Random Dev Quote with Animation -->
+<div align="center">
+  <h3>✍️ Random Dev Quote</h3>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote">
 </div>
 
----
-
-### 🔝 Top Contributed Repo
-<div align="left">
-  <img src="https://github-contributor-stats.vercel.app/api?username=rajtilak-2020&limit=5&theme=midnight-purple&combine_all_yearly_contributions=true" alt="Top Contributed Repo">
+<!-- Animated Snake -->
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/rajtilak-2020/rajtilak-2020/blob/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/rajtilak-2020/rajtilak-2020/blob/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://github.com/rajtilak-2020/rajtilak-2020/blob/output/github-contribution-grid-snake.svg">
+  </picture>
 </div>
 
----
-
-[![](https://visitcount.itsvg.in/api?id=rajtilak-2020&icon=5&color=6)](https://visitcount.itsvg.in)
-
----
-
-## 💰 Buy Me A Coffee
-<div align="left">
-  <a href="https://buymeacoffee.com/k.raj_tilak2020"><img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee"></a>
+<!-- Support Section -->
+<h2 align="center">☕️ Support My Work
+<!-- Animated Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<div align="center">
+  <a href="https://buymeacoffee.com/k.raj_tilak2020">
+    <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black&border_radius=10" alt="Buy Me A Coffee">
+  </a>
 </div>
+
+<!-- Footer Wave -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
