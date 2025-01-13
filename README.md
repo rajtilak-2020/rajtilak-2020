@@ -4,12 +4,6 @@
   <!-- Animated Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-
-<!-- Profile Views Counter -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=rajtilak-2020&style=for-the-badge&color=blueviolet&border_radius=10" alt="Profile Views">
-</p>
-
 <!-- Social Links with Hover Effect and Rounded Corners -->
 <div align="center">
   <a href="https://krajtilak.vercel.app/" title="Portfolio"><img src="https://img.shields.io/badge/Website-4A154B?style=for-the-badge&logo=web&logoColor=white&border_radius=10"/></a>
@@ -32,7 +26,7 @@ const krajtilak = {
     Education: "Computer Science & Engineering",
     Passion: ["Web Development", "Robotics", "IoT", "AI"],
     Website: "krajtilak.vercel.app",
-    CurrentFocus: "Bridging innovative ideas with transformative technologies"
+    Focused: "True"
 };
 ```
 <p align="left">
@@ -63,10 +57,6 @@ const krajtilak = {
     <img  src="https://github-readme-streak-stats.herokuapp.com/?user=rajtilak-2020&theme=midnight-purple&hide_border=true" alt="GitHub Streak"/>
     <img  src="https://github-readme-stats.vercel.app/api?username=rajtilak-2020&show_icons=true&theme=midnight-purple&hide_border=true" alt="GitHub Stats"/>
   </div>
-  <div>
-    <img  src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rajtilak-2020&theme=midnight_purple" alt="Repos Per Language"/>
-    <img  src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=rajtilak-2020&theme=midnight_purple&utcOffset=8" alt="Productive Time"/>
-  </div>
 </div>
 
 <!-- Animated Divider -->
@@ -77,14 +67,14 @@ const krajtilak = {
 <!-- Animated Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=rajtilak-2020&theme=darkhub&no-frame=true&no-bg=true&column=9&margin-w=15&margin-h=15" width="100%" alt="Trophies">
+  <img src="https://github-profile-trophy.vercel.app/?username=rajtilak-2020&theme=darkhub&no-frame=true&no-bg=true&column=9" width="100%" alt="Trophies">
 </div>
 
 <!-- Animated Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <!-- Random Dev Quote with Animation -->
-<div align="center">
+<div align="left">
   <h3>✍️ Random Dev Quote</h3>
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote">
 </div>
@@ -96,17 +86,24 @@ const krajtilak = {
     <source media="(prefers-color-scheme: light)" srcset="https://github.com/rajtilak-2020/rajtilak-2020/blob/output/github-contribution-grid-snake.svg">
     <img alt="github contribution grid snake animation" src="https://github.com/rajtilak-2020/rajtilak-2020/blob/output/github-contribution-grid-snake.svg">
   </picture>
-</div>
+
 
 <!-- Support Section -->
-<h2 align="center">☕️ Support My Work
+<h2 align="left">☕️ Support My Work
 <!-- Animated Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <div align="center">
   <a href="https://buymeacoffee.com/k.raj_tilak2020">
     <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black&border_radius=10" alt="Buy Me A Coffee">
   </a>
-</div>
+
 
 <!-- Footer Wave -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
+
+
+
+<!-- Profile Views Counter -->
+<p align="right">
+  <img src="https://komarev.com/ghpvc/?username=rajtilak-2020&style=for-the-badge&color=blueviolet&border_radius=10" alt="Profile Views">
+
