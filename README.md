@@ -19,7 +19,6 @@
   <a href="https://stackoverflow.com/users/26817244"><img src="https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white&border_radius=10"/></a>
   <a href="https://codepen.io/K-Rajtilak"><img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white&border_radius=10"/></a>
   <a href="https://www.facebook.com/profile.php?id=100073801447447"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white&border_radius=10"/></a>
-  <a href="https://reddit.com/user/rajtilak2020"><img src="https://img.shields.io/badge/Reddit-%23FF4500.svg?style=for-the-badge&logo=Reddit&logoColor=white&border_radius=10"/></a>
 </div>
 
 <!-- Animated Wave -->
