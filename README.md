@@ -1,8 +1,7 @@
 <!-- Animated Header -->
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=40&pause=1000&color=6842FF&center=true&vCenter=true&random=false&width=500&height=70&lines=Hi+there!+%F0%9F%91%8B;I'm+K+Rajtilak;" alt="Typing SVG"/>
-  <!-- Animated Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</h1>
 
 <!-- Social Links with Hover Effect and Rounded Corners -->
 <div align="center">
@@ -33,68 +32,39 @@ const krajtilak = {
   A passionate Computer & Science Engineering student, I strive to bridge the gap between innovative ideas and transformative technologies. My expertise includes <b>web development</b>, <b>robotics</b>, <b>IoT systems</b>, and <b>collaborative GitHub projects</b>.
 </p>
 
-<!-- Animated Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<!-- Skills Animation -->
-<h2 align="left">🛠️ Technologies & Tools</h2>
+## 🛠️ Technologies & Tools
 <div align="center">
   <img src="https://skillicons.dev/icons?i=js,python,cpp,arduino,html,css,react,nodejs,git,vscode&theme=dark" alt="Skills">
 </div>
 
-<!-- Animated Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<!-- GitHub Stats with Animation -->
-<h2 align="center">📊 GitHub Statistics
-<!-- Animated Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<!-- Stats Grid Layout -->
-<div align="center">
+## 📊 GitHub Statistics
+<div align="center" style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 20px;">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rajtilak-2020&theme=midnight_purple" alt="Activity Graph"/>
-  <div style="display: flex;">
-    <img  src="https://github-readme-streak-stats.herokuapp.com/?user=rajtilak-2020&theme=midnight-purple&hide_border=true" alt="GitHub Streak"/>
-    <img  src="https://github-readme-stats.vercel.app/api?username=rajtilak-2020&show_icons=true&theme=midnight-purple&hide_border=true" alt="GitHub Stats"/>
-  </div>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rajtilak-2020&theme=midnight-purple&hide_border=true" alt="GitHub Streak"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=rajtilak-2020&show_icons=true&theme=midnight-purple&hide_border=true" alt="GitHub Stats"/>
 </div>
 
-<!-- Animated Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<!-- Trophies with Animation -->
-<h2 align="center">🏆 GitHub Trophies
-<!-- Animated Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+## 🏆 GitHub Trophies
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=rajtilak-2020&theme=darkhub&no-frame=true&no-bg=true&column=9" width="100%" alt="Trophies">
 </div>
 
-<!-- Animated Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<!-- Random Dev Quote with Animation -->
+## ✍️ Random Dev Quote
 <div align="left">
-  <h3>✍️ Random Dev Quote</h3>
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote">
 </div>
 
-<!-- Support Section -->
-<h2 align="left">☕️ Support My Work
-<!-- Animated Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+## ☕️ Support My Work
 <div align="left">
   <a href="https://buymeacoffee.com/k.raj_tilak2020">
     <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black&border_radius=10" alt="Buy Me A Coffee">
   </a>
-
+</div>
 
 <!-- Footer Wave -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
 
-
-
 <!-- Profile Views Counter -->
 <p align="right">
   <img src="https://komarev.com/ghpvc/?username=rajtilak-2020&style=for-the-badge&color=blueviolet&border_radius=10" alt="Profile Views">
-
+</p>
