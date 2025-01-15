@@ -40,7 +40,7 @@ const krajtilak = {
 ## 📊 GitHub Statistics
 <div align="center" style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 20px;">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rajtilak-2020&theme=midnight_purple" alt="Activity Graph"/>
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=rajtilak-2020&theme=midnight-purple&hide_border=true&border_radius=15" alt="GitHub Streak" /></a>
+  <img src="https://streak-stats.demolab.com?user=rajtilak-2020&theme=midnight-purple&hide_border=true&border_radius=15" alt="GitHub Streak" /></a>
   <img src="https://github-readme-stats.vercel.app/api?username=rajtilak-2020&show_icons=true&theme=midnight-purple&hide_border=true" alt="GitHub Stats"/>
 </div>
 
