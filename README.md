@@ -38,7 +38,7 @@ const krajtilak = {
 </div>
 
 ## 📊 GitHub Statistics
-<div align="center">
+
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=rajtilak-2020&theme=midnight-purple&show_icons=true&hide_border=true&count_private=true" />
 </a>
@@ -52,7 +52,6 @@ const krajtilak = {
   <img height=210 align="center" src="https://wakatime.com/share/@51ed7648-4b12-4373-9d90-2911793ce386/2dbff428-3e99-4dda-b841-58a51ef7e0bf.png" />
 </a>
 
-</div>
 
 
 ## 🏆 GitHub Trophies
