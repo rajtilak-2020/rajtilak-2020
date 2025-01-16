@@ -39,9 +39,10 @@ const krajtilak = {
 
 ## 📊 GitHub Statistics
 <div align="center" style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 20px;">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rajtilak-2020&theme=midnight_purple" alt="Activity Graph"/>
-  <img src="https://streak-stats.demolab.com?user=rajtilak-2020&theme=midnight-purple&hide_border=true&border_radius=15&hide_longest_streak=true" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api?username=rajtilak-2020&show_icons=true&theme=midnight-purple&hide_border=true" alt="GitHub Stats"/>
+   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rajtilak-2020&theme=midnight_purple" alt="Activity Graph" width="700px"/>
+   <img src="https://github-readme-stats.vercel.app/api?username=rajtilak-2020&show_icons=true&theme=midnight-purple&hide_border=true" alt="GitHub Stats" width="500px"/>
+   <img src="https://wakatime.com/share/@51ed7648-4b12-4373-9d90-2911793ce386/2dbff428-3e99-4dda-b841-58a51ef7e0bf.png" alt="WakaTime Stats" width="400px" />
+
 </div>
 
 ## 🏆 GitHub Trophies
