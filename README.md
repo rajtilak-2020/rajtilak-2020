@@ -51,7 +51,7 @@ const krajtilak = {
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=210 align="center" src="https://wakatime.com/share/@51ed7648-4b12-4373-9d90-2911793ce386/2dbff428-3e99-4dda-b841-58a51ef7e0bf.png" />
 </a>
-
+<a><img href="https://github-readme-streak-stats.herokuapp.com/?user=rajtilak-2020&theme=midnight-purple&hide_border=true"/></a>
 
 
 ## 🏆 GitHub Trophies
