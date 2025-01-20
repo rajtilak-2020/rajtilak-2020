@@ -38,21 +38,16 @@ const krajtilak = {
 </div>
 
 ## 📊 GitHub Statistics
+![](https://github-readme-stats.vercel.app/api?username=rajtilak-2020&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=rajtilak-2020&theme=midnight-purple&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=rajtilak-2020&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=rajtilak-2020&theme=midnight-purple&show_icons=true&hide_border=true&count_private=true" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajtilak-2020&theme=midnight-purple&show_icons=true&hide_border=true&layout=compact" />
-</a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rajtilak-2020&theme=midnight_purple" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=210 align="center" src="https://wakatime.com/share/@51ed7648-4b12-4373-9d90-2911793ce386/2dbff428-3e99-4dda-b841-58a51ef7e0bf.png" />
 </a>
-<a><img href="https://github-readme-streak-stats.herokuapp.com/?user=rajtilak-2020&theme=midnight-purple&hide_border=true"/></a>
-
 
 ## 🏆 GitHub Trophies
 <div align="center">
@@ -61,7 +56,7 @@ const krajtilak = {
 
 ## ✍️ Random Dev Quote
 <div align="left">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Random Dev Quote">
 </div>
 
 ## ☕️ Support My Work
