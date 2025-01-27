@@ -38,16 +38,21 @@ const krajtilak = {
 </div>
 
 ## 📊 GitHub Statistics
-![](https://github-readme-stats.vercel.app/api?username=rajtilak-2020&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=rajtilak-2020&theme=midnight-purple&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=rajtilak-2020&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rajtilak-2020&theme=midnight_purple" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=210 align="center" src="https://wakatime.com/share/@51ed7648-4b12-4373-9d90-2911793ce386/2dbff428-3e99-4dda-b841-58a51ef7e0bf.png" />
-</a>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rajtilak-2020&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" width="49%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rajtilak-2020&theme=midnight-purple&hide_border=true" alt="GitHub Streak" width="49%"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajtilak-2020&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" width="40%"/>
+</div>
+
+<div align="center">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=rajtilak-2020&bg_color=000000&color=ffffff&line=00ff04&point=ff0000&area=true&hide_border=true" alt="GitHub Activity Graph"/>
+  </a>
+</div>
+
 
 ## 🏆 GitHub Trophies
 <div align="center">
