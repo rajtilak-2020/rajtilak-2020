@@ -39,8 +39,6 @@ const krajtilak = {
 
 ## 📊 GitHub Statistics
 
-## 📊 GitHub Statistics
-
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=rajtilak-2020&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" width="49%"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajtilak-2020&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" width="49%"/>
