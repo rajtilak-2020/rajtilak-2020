@@ -39,19 +39,23 @@ const krajtilak = {
 
 ## 📊 GitHub Statistics
 
+## 📊 GitHub Statistics
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=rajtilak-2020&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" width="49%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rajtilak-2020&theme=midnight-purple&hide_border=true" alt="GitHub Streak" width="49%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajtilak-2020&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" width="49%"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajtilak-2020&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" width="40%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rajtilak-2020&theme=midnight-purple&hide_border=true" alt="GitHub Streak" width="60%"/>
 </div>
 
 <div align="center">
+  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=rajtilak-2020&bg_color=000000&color=ffffff&line=00ff04&point=ff0000&area=true&hide_border=true" alt="GitHub Activity Graph"/>
   </a>
 </div>
+
 
 
 ## 🏆 GitHub Trophies
