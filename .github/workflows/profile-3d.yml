@@ -2,12 +2,12 @@ name: GitHub-Profile-3D-Contrib
 
 on:
   schedule:
-    - cron: "0 0 * * *"   # 5:30 AM IST
-    - cron: "0 4 * * *"   # 9:30 AM IST
-    - cron: "0 8 * * *"   # 1:30 AM IST
-    - cron: "0 12 * * *"  # 5:30 PM IST
-    - cron: "0 16 * * *"  # 9:30 PM IST
-    - cron: "0 20 * * *"  # 1:30 PM IST
+    - cron: "0 0 * * *"    # 5:30 AM IST
+    - cron: "0 4 * * *"    # 9:30 AM IST
+    - cron: "0 8 * * *"    # 1:30 PM IST
+    - cron: "0 12 * * *"   # 5:30 PM IST
+    - cron: "0 16 * * *"   # 9:30 PM IST
+    - cron: "0 20 * * *"   # 1:30 AM IST (next day)
   workflow_dispatch:
 
 permissions:
@@ -23,13 +23,13 @@ jobs:
         uses: yoshi389111/github-profile-3d-contrib@latest
         env:
           GITHUB_TOKEN: ${{ secrets.PAT }}
-          USERNAME: ${{ github.repository_owner }}
+          USERNAME: rajtilak-2020
 
       - name: Commit & Push
         run: |
-          git config user.name github-actions
-          git config user.email github-actions@github.com
+          git config user.name "rajtilak-2020"
+          git config user.email "rajtilak1062020@gmail.com"
           git add -A .
-          if git commit -m "generated"; then
+          if git commit -m "generated on $(date -u)"; then
             git push
           fi
