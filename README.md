@@ -37,7 +37,7 @@ const krajtilak = {
 ![3D Contribution Graph](./profile-3d-contrib/profile-night-green.svg)
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rajtilak-2020&theme=midnight-purple&hide_border=true" width="60%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rajtilak-2020&theme=highcontrast&hide_border=true" width="60%"/>
 </div>
 
 ## 🏆 GitHub Trophies
