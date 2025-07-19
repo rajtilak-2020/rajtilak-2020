@@ -40,6 +40,12 @@ const krajtilak = {
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=rajtilak-2020&theme=highcontrast&hide_border=true" width="60%"/>
 </div>
 
+## ⌨️ My Coding Stats
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+
 ## 🏆 GitHub Trophies
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=rajtilak-2020&theme=darkhub&no-frame=true&no-bg=true&column=9" width="100%" alt="Trophies">
