@@ -43,8 +43,6 @@ const krajtilak = {
 ## ⌨️ My Coding Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-106%20hrs%2043%20mins-blue)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-161-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.9%20million%20lines%20of%20code-blue)
@@ -59,45 +57,6 @@ const krajtilak = {
  > 
 > 🔑 0 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                224 commits         █████░░░░░░░░░░░░░░░░░░░░   21.77 % 
-🌆 Daytime                338 commits         ████████░░░░░░░░░░░░░░░░░   32.85 % 
-🌃 Evening                305 commits         ███████░░░░░░░░░░░░░░░░░░   29.64 % 
-🌙 Night                  162 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.74 % 
-```
-📅 **I'm Most Productive on Wednesday** 
-
-```text
-Monday                   144 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.99 % 
-Tuesday                  148 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.38 % 
-Wednesday                193 commits         █████░░░░░░░░░░░░░░░░░░░░   18.76 % 
-Thursday                 123 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.95 % 
-Friday                   134 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.02 % 
-Saturday                 126 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.24 % 
-Sunday                   161 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.65 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Kolkata
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
 **I Mostly Code in JavaScript** 
 
 ```text
@@ -115,7 +74,7 @@ Jupyter Notebook         3 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/rajtilak-2020/rajtilak-2020/main/assets/bar_graph.png)
 
 
- Last Updated on 29/07/2025 18:55:46 UTC
+ Last Updated on 30/07/2025 18:54:28 UTC
 <!--END_SECTION:waka-->
 
 
