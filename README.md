@@ -18,7 +18,7 @@
 ```javascript
 const krajtilak = {
     Education: "Computer Science & Engineering",
-    Passion: ["Web Development", "Cyber-Security", "IoT", "Photography"],
+    Passion: ["Web Development", "Cyber-Security", "IoT"],
     Website: "krajtilak.vercel.app",
     Focused: "True"
 };
