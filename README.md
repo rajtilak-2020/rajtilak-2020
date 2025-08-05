@@ -13,7 +13,7 @@
 </div>
 
 ## 👨🏻‍💻 About Me
-<img src="https://raw.githubusercontent.com/sanjay-kv/sanjay-kv/main/Assets/illustration.png" width="350px" align="right" alt="Coding illustration">
+<img src="https://raw.githubusercontent.com/rajtilak-2020/rajtilak-2020/refs/heads/main/assets/raj.png" width="300px" align="right" alt="Coding illustration">
 
 ```javascript
 const krajtilak = {
