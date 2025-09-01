@@ -17,7 +17,7 @@
 
 ```javascript
 const krajtilak = {
-    Education: "Computer Science & Engineering",
+    Education: "BTech CSE - Cyber Defence",
     Passion: ["Web Development", "Cyber-Security", "IoT"],
     Website: "krajtilak.vercel.app",
     Focused: "True"
