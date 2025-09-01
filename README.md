@@ -24,7 +24,7 @@ const krajtilak = {
 };
 ```
 <p align="left">
-  A passionate Computer & Science Engineering student, I strive to bridge the gap between innovative ideas and transformative technologies. My expertise includes <b>web development</b>, <b>robotics</b>, <b>IoT systems</b>, and <b>collaborative GitHub projects</b>.
+  A passionate <b>Cyber Security</b> student, I strive to bridge the gap between innovative ideas and transformative technologies. My expertise includes <b>Web Development</b>, <b>Cyber Security</b>, <b>IoT</b>, and <b>Collaborative GitHub Projects</b>.
 </p>
 
 ## 🛠️ Technologies & Tools
