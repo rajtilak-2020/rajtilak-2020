@@ -43,22 +43,66 @@ const krajtilak = {
 ## ⌨️ My Coding Stats
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-134%20hrs%2022%20mins-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-15-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.9%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.1%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 3.8 MB Used in GitHub's Storage 
  > 
-> 🏆 1,519 Contributions in the Year 2025
- > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 84 Public Repositories 
+> 📜 85 Public Repositories 
  > 
 > 🔑 2 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                496 commits         █████░░░░░░░░░░░░░░░░░░░░   19.23 % 
+🌆 Daytime                811 commits         ████████░░░░░░░░░░░░░░░░░   31.45 % 
+🌃 Evening                678 commits         ███████░░░░░░░░░░░░░░░░░░   26.29 % 
+🌙 Night                  594 commits         ██████░░░░░░░░░░░░░░░░░░░   23.03 % 
+```
+📅 **I'm Most Productive on Wednesday** 
+
+```text
+Monday                   389 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.08 % 
+Tuesday                  336 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.03 % 
+Wednesday                479 commits         █████░░░░░░░░░░░░░░░░░░░░   18.57 % 
+Thursday                 353 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.69 % 
+Friday                   346 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.42 % 
+Saturday                 309 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.98 % 
+Sunday                   367 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.23 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Kolkata
+
+💬 Programming Languages: 
+TypeScript               2 hrs 2 mins        ███████████░░░░░░░░░░░░░░   43.65 % 
+HTML                     1 hr 5 mins         ██████░░░░░░░░░░░░░░░░░░░   23.19 % 
+MDX                      1 hr 1 min          █████░░░░░░░░░░░░░░░░░░░░   21.93 % 
+Markdown                 17 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.29 % 
+YAML                     10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.91 % 
+
+🔥 Editors: 
+VS Code                  4 hrs 41 mins       █████████████████████████   100.00 % 
+
+🐱‍💻 Projects: 
+K-Rajtilak_s-Portfolio-V43 hrs 36 mins       ███████████████████░░░░░░   76.81 % 
+MT Lab                   1 hr 5 mins         ██████░░░░░░░░░░░░░░░░░░░   23.19 % 
+
+💻 Operating System: 
+Linux                    4 hrs 41 mins       █████████████████████████   100.00 % 
+```
+
 **I Mostly Code in JavaScript** 
 
 ```text
@@ -76,7 +120,7 @@ Java                     3 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/rajtilak-2020/rajtilak-2020/main/assets/bar_graph.png)
 
 
- Last Updated on 16/09/2025 18:48:38 UTC
+ Last Updated on 17/09/2025 18:49:03 UTC
 <!--END_SECTION:waka-->
 
 
