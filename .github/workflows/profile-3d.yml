@@ -1,5 +1,4 @@
 name: GitHub-Profile-3D-Contrib
-
 on:
   schedule:
     - cron: "0 0 * * *"    # 5:30 AM IST
@@ -9,27 +8,27 @@ on:
     - cron: "0 16 * * *"   # 9:30 PM IST
     - cron: "0 20 * * *"   # 1:30 AM IST (next day)
   workflow_dispatch:
-
 permissions:
   contents: write
-
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-
+        with:
+          ref: profile-3d-contrib  # Use a separate branch
+      
       - name: Generate 3D Contribution Graph
         uses: yoshi389111/github-profile-3d-contrib@latest
         env:
           GITHUB_TOKEN: ${{ secrets.PAT }}
           USERNAME: rajtilak-2020
-
+      
       - name: Commit & Push
         run: |
-          git config user.name "rajtilak-2020"
-          git config user.email "rajtilak1062020@gmail.com"
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
           git add -A .
-          if git commit -m "generated on $(date -u)"; then
-            git push
+          if git commit -m "Update 3D contrib graph - $(date -u)"; then
+            git push origin profile-3d-contrib
           fi
