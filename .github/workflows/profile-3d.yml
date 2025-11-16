@@ -22,8 +22,8 @@ jobs:
           USERNAME: rajtilak-2020
       - name: Commit & Push
         run: |
-          git config user.name "rajtilak-2020"
-          git config user.email "rajtilak1062020@gmail.com"
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
           git add -A .
           if git commit -m "generated on $(date -u)"; then
             git push
