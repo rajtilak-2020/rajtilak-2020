@@ -15,20 +15,16 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-        with:
-          ref: profile-3d-contrib  # Use a separate branch
-      
       - name: Generate 3D Contribution Graph
         uses: yoshi389111/github-profile-3d-contrib@latest
         env:
           GITHUB_TOKEN: ${{ secrets.PAT }}
           USERNAME: rajtilak-2020
-      
       - name: Commit & Push
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add -A .
-          if git commit -m "Update 3D contrib graph - $(date -u)"; then
-            git push origin profile-3d-contrib
+          if git commit -m "generated on $(date -u)"; then
+            git push
           fi
