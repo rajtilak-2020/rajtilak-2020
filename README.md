@@ -43,9 +43,7 @@ const krajtilak = {
 ## ⌨️ My Coding Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-234%20hrs%2035%20mins-blue)
-
-![Profile Views](http://img.shields.io/badge/Profile%20Views-17-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-79-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.3%20million%20lines%20of%20code-blue)
 
@@ -53,7 +51,7 @@ const krajtilak = {
 
 > 📦 4.0 MB Used in GitHub's Storage 
  > 
-> 🏆 2,122 Contributions in the Year 2025
+> 🏆 2,136 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -61,45 +59,6 @@ const krajtilak = {
  > 
 > 🔑 5 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                544 commits         ██████░░░░░░░░░░░░░░░░░░░   23.55 % 
-🌆 Daytime                771 commits         ████████░░░░░░░░░░░░░░░░░   33.38 % 
-🌃 Evening                616 commits         ███████░░░░░░░░░░░░░░░░░░   26.67 % 
-🌙 Night                  379 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.41 % 
-```
-📅 **I'm Most Productive on Friday** 
-
-```text
-Monday                   307 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.29 % 
-Tuesday                  293 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.68 % 
-Wednesday                364 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.76 % 
-Thursday                 322 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.94 % 
-Friday                   434 commits         █████░░░░░░░░░░░░░░░░░░░░   18.79 % 
-Saturday                 293 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.68 % 
-Sunday                   297 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.86 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Kolkata
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
 **I Mostly Code in TypeScript** 
 
 ```text
@@ -117,7 +76,7 @@ Java                     3 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/rajtilak-2020/rajtilak-2020/main/assets/bar_graph.png)
 
 
- Last Updated on 15/11/2025 18:46:40 UTC
+ Last Updated on 16/11/2025 18:47:40 UTC
 <!--END_SECTION:waka-->
 
 
