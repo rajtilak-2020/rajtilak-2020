@@ -43,9 +43,9 @@ const krajtilak = {
 ## ⌨️ My Coding Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-235%20hrs%2040%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-235%20hrs%2041%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-80-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-78-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.3%20million%20lines%20of%20code-blue)
 
@@ -88,19 +88,19 @@ Sunday                   310 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-TypeScript               53 mins             █████████████████████░░░░   82.31 % 
-MDX                      7 mins              ███░░░░░░░░░░░░░░░░░░░░░░   12.18 % 
-JSON                     2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.88 % 
-Bash                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.63 % 
+TypeScript               54 mins             ████████████████████░░░░░   80.96 % 
+MDX                      9 mins              ███░░░░░░░░░░░░░░░░░░░░░░   13.66 % 
+JSON                     2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.80 % 
+Bash                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.59 % 
 
 🔥 Editors: 
-VS Code                  1 hr 5 mins         █████████████████████████   100.00 % 
+VS Code                  1 hr 6 mins         █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Portfolio-V5             1 hr 5 mins         █████████████████████████   100.00 % 
+Portfolio-V5             1 hr 6 mins         █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  1 hr 5 mins         █████████████████████████   100.00 % 
+Windows                  1 hr 6 mins         █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -120,7 +120,7 @@ Java                     3 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/rajtilak-2020/rajtilak-2020/main/assets/bar_graph.png)
 
 
- Last Updated on 18/11/2025 18:53:33 UTC
+ Last Updated on 19/11/2025 18:50:49 UTC
 <!--END_SECTION:waka-->
 
 
