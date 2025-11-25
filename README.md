@@ -45,7 +45,7 @@ const krajtilak = {
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-237%20hrs%202%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-68-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-66-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.3%20million%20lines%20of%20code-blue)
 
@@ -88,17 +88,17 @@ Sunday                   310 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-MDX                      1 hr 12 mins        ██████████████████░░░░░░░   73.65 % 
-TypeScript               25 mins             ███████░░░░░░░░░░░░░░░░░░   26.35 % 
+MDX                      1 hr 12 mins        ██████████████████████░░░   88.32 % 
+TypeScript               9 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.68 % 
 
 🔥 Editors: 
-VS Code                  1 hr 38 mins        █████████████████████████   100.00 % 
+VS Code                  1 hr 21 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Portfolio-V5             1 hr 38 mins        █████████████████████████   100.00 % 
+Portfolio-V5             1 hr 21 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  1 hr 38 mins        █████████████████████████   100.00 % 
+Windows                  1 hr 21 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -118,7 +118,7 @@ Java                     3 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/rajtilak-2020/rajtilak-2020/main/assets/bar_graph.png)
 
 
- Last Updated on 24/11/2025 18:53:47 UTC
+ Last Updated on 25/11/2025 18:52:56 UTC
 <!--END_SECTION:waka-->
 
 
