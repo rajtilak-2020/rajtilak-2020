@@ -53,11 +53,11 @@ const krajtilak = {
 
 > 📦 4.0 MB Used in GitHub's Storage 
  > 
-> 🏆 2,139 Contributions in the Year 2025
+> 🏆 2,140 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 95 Public Repositories 
+> 📜 96 Public Repositories 
  > 
 > 🔑 5 Private Repositories 
  > 
@@ -88,17 +88,17 @@ Sunday                   310 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-MDX                      1 hr 12 mins        ██████████████████████░░░   88.32 % 
-TypeScript               9 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.68 % 
+MDX                      1 hr 8 mins         ██████████████████████░░░   89.81 % 
+TypeScript               7 mins              ███░░░░░░░░░░░░░░░░░░░░░░   10.19 % 
 
 🔥 Editors: 
-VS Code                  1 hr 21 mins        █████████████████████████   100.00 % 
+VS Code                  1 hr 16 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Portfolio-V5             1 hr 21 mins        █████████████████████████   100.00 % 
+Portfolio-V5             1 hr 16 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  1 hr 21 mins        █████████████████████████   100.00 % 
+Windows                  1 hr 16 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -118,7 +118,7 @@ Java                     3 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/rajtilak-2020/rajtilak-2020/main/assets/bar_graph.png)
 
 
- Last Updated on 25/11/2025 18:52:56 UTC
+ Last Updated on 27/11/2025 04:07:48 UTC
 <!--END_SECTION:waka-->
 
 
