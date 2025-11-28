@@ -43,9 +43,9 @@ const krajtilak = {
 ## ⌨️ My Coding Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-237%20hrs%202%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-237%20hrs%2045%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-70-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-73-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.3%20million%20lines%20of%20code-blue)
 
@@ -88,17 +88,19 @@ Sunday                   310 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-MDX                      1 hr 8 mins         ██████████████████████░░░   89.81 % 
-TypeScript               7 mins              ███░░░░░░░░░░░░░░░░░░░░░░   10.19 % 
+MDX                      1 hr 16 mins        ████████████████░░░░░░░░░   64.42 % 
+JavaScript               24 mins             █████░░░░░░░░░░░░░░░░░░░░   20.17 % 
+TypeScript               18 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.38 % 
+SCSS                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
 
 🔥 Editors: 
-VS Code                  1 hr 16 mins        █████████████████████████   100.00 % 
+VS Code                  1 hr 59 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Portfolio-V5             1 hr 16 mins        █████████████████████████   100.00 % 
+Portfolio-V5             1 hr 59 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  1 hr 16 mins        █████████████████████████   100.00 % 
+Windows                  1 hr 59 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -118,7 +120,7 @@ Java                     3 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/rajtilak-2020/rajtilak-2020/main/assets/bar_graph.png)
 
 
- Last Updated on 27/11/2025 18:51:05 UTC
+ Last Updated on 28/11/2025 18:50:59 UTC
 <!--END_SECTION:waka-->
 
 
