@@ -43,9 +43,9 @@ const krajtilak = {
 ## ⌨️ My Coding Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-237%20hrs%2057%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-238%20hrs%2027%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-16-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-18-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.3%20million%20lines%20of%20code-blue)
 
@@ -88,19 +88,20 @@ Sunday                   313 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-JavaScript               36 mins             ████████████████░░░░░░░░░   65.44 % 
-TypeScript               10 mins             █████░░░░░░░░░░░░░░░░░░░░   19.14 % 
-MDX                      8 mins              ████░░░░░░░░░░░░░░░░░░░░░   15.37 % 
-SCSS                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
+JavaScript               1 hr 5 mins         ███████████████████░░░░░░   77.10 % 
+TypeScript               10 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.40 % 
+MDX                      8 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.96 % 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.50 % 
+SCSS                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
 
 🔥 Editors: 
-VS Code                  55 mins             █████████████████████████   100.00 % 
+VS Code                  1 hr 25 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Portfolio-V5             55 mins             █████████████████████████   100.00 % 
+Portfolio-V5             1 hr 25 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  55 mins             █████████████████████████   100.00 % 
+Windows                  1 hr 25 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -120,7 +121,7 @@ Java                     3 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/rajtilak-2020/rajtilak-2020/main/assets/bar_graph.png)
 
 
- Last Updated on 30/11/2025 18:49:01 UTC
+ Last Updated on 01/12/2025 18:58:09 UTC
 <!--END_SECTION:waka-->
 
 
