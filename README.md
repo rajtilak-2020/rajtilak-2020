@@ -45,7 +45,7 @@ const krajtilak = {
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-241%20hrs%2047%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-19-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-14-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.3%20million%20lines%20of%20code-blue)
 
@@ -53,11 +53,11 @@ const krajtilak = {
 
 > 📦 4.0 MB Used in GitHub's Storage 
  > 
-> 🏆 2,156 Contributions in the Year 2025
+> 🏆 2,157 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 98 Public Repositories 
+> 📜 99 Public Repositories 
  > 
 > 🔑 6 Private Repositories 
  > 
@@ -88,21 +88,21 @@ Sunday                   313 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-MDX                      1 hr 16 mins        ██████████░░░░░░░░░░░░░░░   38.32 % 
-TypeScript               1 hr 11 mins        █████████░░░░░░░░░░░░░░░░   35.88 % 
-JavaScript               25 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.83 % 
-JSON                     17 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.93 % 
-YAML                     5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.54 % 
+MDX                      1 hr 16 mins        ██████████░░░░░░░░░░░░░░░   39.60 % 
+TypeScript               1 hr 11 mins        █████████░░░░░░░░░░░░░░░░   37.09 % 
+JavaScript               19 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.91 % 
+JSON                     17 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.23 % 
+YAML                     5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.63 % 
 
 🔥 Editors: 
-VS Code                  3 hrs 19 mins       █████████████████████████   100.00 % 
+VS Code                  3 hrs 12 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Portfolio-V5             2 hrs 5 mins        ████████████████░░░░░░░░░   63.03 % 
-Smart India Hackathon 2021 hr 13 mins        █████████░░░░░░░░░░░░░░░░   36.97 % 
+Portfolio-V5             1 hr 59 mins        ███████████████░░░░░░░░░░   61.79 % 
+Smart India Hackathon 2021 hr 13 mins        ██████████░░░░░░░░░░░░░░░   38.21 % 
 
 💻 Operating System: 
-Windows                  3 hrs 19 mins       █████████████████████████   100.00 % 
+Windows                  3 hrs 12 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -122,7 +122,7 @@ Java                     3 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/rajtilak-2020/rajtilak-2020/main/assets/bar_graph.png)
 
 
- Last Updated on 10/12/2025 18:54:55 UTC
+ Last Updated on 11/12/2025 18:57:47 UTC
 <!--END_SECTION:waka-->
 
 
