@@ -19,7 +19,7 @@
 const krajtilak = {
     Education: "BTech CSE - Cyber Defence",
     Passion: ["Web Development", "Cyber-Security", "IoT"],
-    Website: "krajtilak.vercel.app",
+    Website: "krajtilak.dev",
     Focused: "True"
 };
 ```
