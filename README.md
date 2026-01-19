@@ -43,9 +43,9 @@ const krajtilak = {
 ## ⌨️ My Coding Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-256%20hrs%2022%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-259%20hrs%2040%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-46-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-24-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.24%20million%20lines%20of%20code-blue?style=flat)
 
@@ -88,20 +88,21 @@ Sunday                   304 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-TypeScript               8 mins              █████████████░░░░░░░░░░░░   51.32 % 
-Markdown                 7 mins              ███████████░░░░░░░░░░░░░░   43.29 % 
-JSON                     0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   03.74 % 
-SCSS                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.66 % 
+MDX                      3 hrs 18 mins       ███████████████████████░░   92.05 % 
+TypeScript               8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.08 % 
+Markdown                 7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.44 % 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 % 
+SCSS                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 % 
 
 🔥 Editors: 
-VS Code                  17 mins             █████████████████████████   100.00 % 
+VS Code                  3 hrs 35 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Portfolio-V5             9 mins              ██████████████░░░░░░░░░░░   56.71 % 
-Bangali-hate-speech-detec7 mins              ███████████░░░░░░░░░░░░░░   43.29 % 
+Portfolio-V5             3 hrs 28 mins       ████████████████████████░   96.56 % 
+Bangali-hate-speech-detec7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.44 % 
 
 💻 Operating System: 
-Windows                  17 mins             █████████████████████████   100.00 % 
+Windows                  3 hrs 35 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -121,7 +122,7 @@ C#                       1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/rajtilak-2020/rajtilak-2020/main/assets/bar_graph.png)
 
 
- Last Updated on 18/01/2026 18:51:56 UTC
+ Last Updated on 19/01/2026 18:57:17 UTC
 <!--END_SECTION:waka-->
 
 
