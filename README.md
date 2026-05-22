@@ -43,8 +43,6 @@ const krajtilak = {
 ## ⌨️ My Coding Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-322%20hrs%2053%20mins-blue?style=flat)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.20%20million%20lines%20of%20code-blue?style=flat)
@@ -89,8 +87,7 @@ Sunday                   262 commits         ███░░░░░░░░�
 
 💬 Programming Languages: 
 MDX                      25 mins             █████████████░░░░░░░░░░░░   51.18 % 
-TypeScript               13 mins             ███████░░░░░░░░░░░░░░░░░░   26.42 % 
-Other                    8 mins              ████░░░░░░░░░░░░░░░░░░░░░   16.45 % 
+TypeScript               21 mins             ███████████░░░░░░░░░░░░░░   42.87 % 
 Bash                     2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.96 % 
 
 🔥 Editors: 
@@ -121,7 +118,7 @@ Shell                    1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/rajtilak-2020/rajtilak-2020/main/assets/bar_graph.png)
 
 
- Last Updated on 21/05/2026 20:23:29 UTC
+ Last Updated on 22/05/2026 20:22:14 UTC
 <!--END_SECTION:waka-->
 
 
