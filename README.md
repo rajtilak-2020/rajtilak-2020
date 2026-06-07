@@ -43,8 +43,6 @@ const krajtilak = {
 ## ⌨️ My Coding Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-322%20hrs%2054%20mins-blue?style=flat)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.80%20million%20lines%20of%20code-blue?style=flat)
@@ -53,7 +51,7 @@ const krajtilak = {
 
 > 📦 4.4 MB Used in GitHub's Storage 
  > 
-> 🏆 377 Contributions in the Year 2026
+> 🏆 378 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -61,53 +59,14 @@ const krajtilak = {
  > 
 > 🔑 16 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                563 commits         █████░░░░░░░░░░░░░░░░░░░░   21.50 % 
-🌆 Daytime                902 commits         █████████░░░░░░░░░░░░░░░░   34.45 % 
-🌃 Evening                711 commits         ███████░░░░░░░░░░░░░░░░░░   27.16 % 
-🌙 Night                  442 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.88 % 
-```
-📅 **I'm Most Productive on Friday** 
-
-```text
-Monday                   370 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.13 % 
-Tuesday                  341 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.03 % 
-Wednesday                380 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.51 % 
-Thursday                 339 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.95 % 
-Friday                   493 commits         █████░░░░░░░░░░░░░░░░░░░░   18.83 % 
-Saturday                 354 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.52 % 
-Sunday                   341 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.03 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Kolkata
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
 **I Mostly Code in TypeScript** 
 
 ```text
-TypeScript               30 repos            ████████░░░░░░░░░░░░░░░░░   32.61 % 
-JavaScript               16 repos            ████░░░░░░░░░░░░░░░░░░░░░   17.39 % 
-Python                   11 repos            ███░░░░░░░░░░░░░░░░░░░░░░   11.96 % 
-CSS                      8 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.70 % 
-Shell                    1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.09 % 
+TypeScript               30 repos            ████████░░░░░░░░░░░░░░░░░   32.97 % 
+JavaScript               15 repos            ████░░░░░░░░░░░░░░░░░░░░░   16.48 % 
+Python                   11 repos            ███░░░░░░░░░░░░░░░░░░░░░░   12.09 % 
+CSS                      8 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.79 % 
+Shell                    1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.10 % 
 ```
 
 
@@ -117,7 +76,7 @@ Shell                    1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/rajtilak-2020/rajtilak-2020/main/assets/bar_graph.png)
 
 
- Last Updated on 06/06/2026 19:55:20 UTC
+ Last Updated on 07/06/2026 19:56:53 UTC
 <!--END_SECTION:waka-->
 
 
