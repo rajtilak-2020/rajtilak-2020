@@ -32,10 +32,6 @@ const krajtilak = {
 
 ![3D Contribution Graph](./profile-3d-contrib/profile-night-green.svg)
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rajtilak-2020&theme=highcontrast&hide_border=true" width="60%"/>
-</div>
-
 ## ⌨️ My Coding Stats
 
 <!--START_SECTION:waka-->
@@ -127,23 +123,12 @@ Dart                     1 repo              ░░░░░░░░░░░�
 <!--END_SECTION:waka-->
 
 
-## 🏆 GitHub Trophies
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=rajtilak-2020&theme=darkhub&no-frame=true&no-bg=true&column=9" width="100%" alt="Trophies">
-</div>
-
 ## ✍️ Random Dev Quote
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Random Dev Quote">
 </div>
 
-
-## ☕️ Support My Work
-<div align="left">
-  <a href="https://buymeacoffee.com/k.raj_tilak2020">
-    <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black&border_radius=10" alt="Buy Me A Coffee">
-  </a>
-</div>
+---
 
 <p align="right">
   <img src="https://komarev.com/ghpvc/?username=rajtilak-2020&style=for-the-badge&color=blueviolet&border_radius=10" alt="Profile Views">
