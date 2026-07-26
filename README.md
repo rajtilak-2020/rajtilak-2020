@@ -45,32 +45,32 @@ const krajtilak = {
 
 > 📦 4.5 MB Used in GitHub's Storage 
  > 
-> 🏆 657 Contributions in the Year 2026
+> 🏆 665 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 147 Public Repositories 
  > 
-> 🔑 24 Private Repositories 
+> 🔑 25 Private Repositories 
  > 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                484 commits         █████░░░░░░░░░░░░░░░░░░░░   21.15 % 
-🌆 Daytime                829 commits         █████████░░░░░░░░░░░░░░░░   36.23 % 
-🌃 Evening                673 commits         ███████░░░░░░░░░░░░░░░░░░   29.41 % 
-🌙 Night                  302 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.20 % 
+🌞 Morning                484 commits         █████░░░░░░░░░░░░░░░░░░░░   21.09 % 
+🌆 Daytime                834 commits         █████████░░░░░░░░░░░░░░░░   36.34 % 
+🌃 Evening                675 commits         ███████░░░░░░░░░░░░░░░░░░   29.41 % 
+🌙 Night                  302 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.16 % 
 ```
 📅 **I'm Most Productive on Friday** 
 
 ```text
-Monday                   336 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.69 % 
-Tuesday                  294 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.85 % 
-Wednesday                293 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.81 % 
-Thursday                 282 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.33 % 
-Friday                   436 commits         █████░░░░░░░░░░░░░░░░░░░░   19.06 % 
-Saturday                 331 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.47 % 
-Sunday                   316 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.81 % 
+Monday                   336 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.64 % 
+Tuesday                  294 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.81 % 
+Wednesday                293 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.77 % 
+Thursday                 282 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.29 % 
+Friday                   436 commits         █████░░░░░░░░░░░░░░░░░░░░   19.00 % 
+Saturday                 331 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.42 % 
+Sunday                   323 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.07 % 
 ```
 
 
@@ -80,35 +80,35 @@ Sunday                   316 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Dart                     3 hrs 22 mins       █████████░░░░░░░░░░░░░░░░   36.13 % 
-TypeScript               2 hrs 56 mins       ████████░░░░░░░░░░░░░░░░░   31.45 % 
-Markdown                 54 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.66 % 
-YAML                     30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.42 % 
-Other                    27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.84 % 
+Dart                     3 hrs 22 mins       ███████████░░░░░░░░░░░░░░   45.57 % 
+TypeScript               1 hr 11 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.06 % 
+Markdown                 52 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.89 % 
+YAML                     30 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.84 % 
+Other                    27 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.10 % 
 
 🔥 Editors: 
-Antigravity IDE          8 hrs 37 mins       ███████████████████████░░   92.25 % 
-VS Code                  43 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.75 % 
+Antigravity IDE          6 hrs 42 mins       ███████████████████████░░   90.41 % 
+VS Code                  42 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.59 % 
 
 🐱‍💻 Projects: 
-vitta                    4 hrs 26 mins       ████████████░░░░░░░░░░░░░   47.53 % 
-Portfolio-V5             2 hrs 58 mins       ████████░░░░░░░░░░░░░░░░░   31.79 % 
-nummo                    50 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.03 % 
-Odrocon                  38 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.79 % 
-iwt                      18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.22 % 
+vitta                    4 hrs 26 mins       ███████████████░░░░░░░░░░   59.96 % 
+Portfolio-V5             1 hr 2 mins         ████░░░░░░░░░░░░░░░░░░░░░   14.14 % 
+nummo                    50 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.39 % 
+Odrocon                  38 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.57 % 
+iwt                      18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.06 % 
 
 💻 Operating System: 
-Windows                  9 hrs 21 mins       █████████████████████████   100.00 % 
+Windows                  7 hrs 24 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
 
 ```text
-TypeScript               36 repos            ████████░░░░░░░░░░░░░░░░░   33.64 % 
-JavaScript               15 repos            ████░░░░░░░░░░░░░░░░░░░░░   14.02 % 
-C++                      11 repos            ███░░░░░░░░░░░░░░░░░░░░░░   10.28 % 
-HTML                     10 repos            ██░░░░░░░░░░░░░░░░░░░░░░░   09.35 % 
-Dart                     2 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.87 % 
+TypeScript               37 repos            █████████░░░░░░░░░░░░░░░░   34.26 % 
+JavaScript               15 repos            ███░░░░░░░░░░░░░░░░░░░░░░   13.89 % 
+C++                      11 repos            ███░░░░░░░░░░░░░░░░░░░░░░   10.19 % 
+HTML                     10 repos            ██░░░░░░░░░░░░░░░░░░░░░░░   09.26 % 
+Dart                     2 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.85 % 
 ```
 
 
@@ -118,7 +118,7 @@ Dart                     2 repos             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/rajtilak-2020/rajtilak-2020/main/assets/bar_graph.png)
 
 
- Last Updated on 25/07/2026 19:46:02 UTC
+ Last Updated on 26/07/2026 19:47:54 UTC
 <!--END_SECTION:waka-->
 
 
