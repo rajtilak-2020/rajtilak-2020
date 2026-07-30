@@ -41,13 +41,13 @@ const krajtilak = {
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.92%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.33%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 4.5 MB Used in GitHub's Storage 
  > 
-> 🏆 665 Contributions in the Year 2026
+> 🏆 666 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -58,21 +58,21 @@ const krajtilak = {
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                578 commits         █████░░░░░░░░░░░░░░░░░░░░   19.98 % 
-🌆 Daytime                1008 commits        █████████░░░░░░░░░░░░░░░░   34.84 % 
-🌃 Evening                825 commits         ███████░░░░░░░░░░░░░░░░░░   28.52 % 
-🌙 Night                  482 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.66 % 
+🌞 Morning                484 commits         █████░░░░░░░░░░░░░░░░░░░░   21.08 % 
+🌆 Daytime                835 commits         █████████░░░░░░░░░░░░░░░░   36.37 % 
+🌃 Evening                675 commits         ███████░░░░░░░░░░░░░░░░░░   29.40 % 
+🌙 Night                  302 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.15 % 
 ```
 📅 **I'm Most Productive on Friday** 
 
 ```text
-Monday                   433 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.97 % 
-Tuesday                  368 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.72 % 
-Wednesday                408 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.10 % 
-Thursday                 367 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.69 % 
-Friday                   522 commits         █████░░░░░░░░░░░░░░░░░░░░   18.04 % 
-Saturday                 402 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.90 % 
-Sunday                   393 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.58 % 
+Monday                   336 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.63 % 
+Tuesday                  294 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.80 % 
+Wednesday                293 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.76 % 
+Thursday                 283 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.33 % 
+Friday                   436 commits         █████░░░░░░░░░░░░░░░░░░░░   18.99 % 
+Saturday                 331 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.42 % 
+Sunday                   323 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.07 % 
 ```
 
 
@@ -143,7 +143,7 @@ Dart                     2 repos             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/rajtilak-2020/rajtilak-2020/main/assets/bar_graph.png)
 
 
- Last Updated on 29/07/2026 19:57:03 UTC
+ Last Updated on 30/07/2026 20:05:15 UTC
 <!--END_SECTION:waka-->
 
 
