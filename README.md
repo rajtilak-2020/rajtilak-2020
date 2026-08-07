@@ -35,15 +35,19 @@ const krajtilak = {
 ## ⌨️ My Coding Stats
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-404%20hrs%2013%20mins-blue?style=flat)
+
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-82%20hrs%2049%20mins-blue?style=flat)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-18-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.36%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.95%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 4.5 MB Used in GitHub's Storage 
  > 
-> 🏆 705 Contributions in the Year 2026
+> 🏆 718 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -51,6 +55,78 @@ const krajtilak = {
  > 
 > 🔑 25 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                584 commits         █████░░░░░░░░░░░░░░░░░░░░   19.84 % 
+🌆 Daytime                1029 commits        █████████░░░░░░░░░░░░░░░░   34.96 % 
+🌃 Evening                845 commits         ███████░░░░░░░░░░░░░░░░░░   28.71 % 
+🌙 Night                  485 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.48 % 
+```
+📅 **I'm Most Productive on Friday** 
+
+```text
+Monday                   440 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.95 % 
+Tuesday                  374 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.71 % 
+Wednesday                409 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.90 % 
+Thursday                 380 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.91 % 
+Friday                   535 commits         █████░░░░░░░░░░░░░░░░░░░░   18.18 % 
+Saturday                 404 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.73 % 
+Sunday                   401 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.63 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Kolkata
+
+💬 Programming Languages: 
+Dart                     15 hrs 56 mins      ██████████████████░░░░░░░   70.83 % 
+Other                    1 hr 54 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.51 % 
+HTML                     1 hr 29 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.61 % 
+YAML                     49 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.67 % 
+JSON                     44 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.30 % 
+
+🔥 Editors: 
+Antigravity CLI          16 hrs 25 mins      ██████████████████░░░░░░░   72.95 % 
+VS Code                  6 hrs 5 mins        ███████░░░░░░░░░░░░░░░░░░   27.05 % 
+
+🐱‍💻 Projects: 
+nummo                    19 hrs 28 mins      ██████████████████████░░░   86.51 % 
+krajtilak                1 hr 58 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.75 % 
+iwt                      45 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.33 % 
+Portfolio-V5             18 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.40 % 
+
+💻 Operating System: 
+Linux                    21 hrs 45 mins      ████████████████████████░   96.67 % 
+Windows                  45 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.33 % 
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+⏱ AI Coding Time: 20 hrs 53 mins (92.79%)
+
+✍️ 4,734 lines written by AI, 98 lines written by hand (97.97% AI-written)
+
+🔤 1,699,488 Input Tokens, 16,037 Output Tokens
+
+💵 $4.51 Estimated AI Cost This Week
+
+🧠 54 AI Sessions, 312 AI Prompts
+
+Gemini                   6,679 lines         █████████████████████████   100.00 % 
+GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Github-Copilot           0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 97.97% of written lines came from AI
+📝 Concise Prompter — average 329 characters per prompt
+🔁 Iterative Prompter — average 6 prompts per session
+🚀 High AI Trust — 1.95% of changed lines were hand-edited
+```
+
 **I Mostly Code in TypeScript** 
 
 ```text
@@ -68,7 +144,7 @@ Dart                     2 repos             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/rajtilak-2020/rajtilak-2020/main/assets/bar_graph.png)
 
 
- Last Updated on 07/08/2026 00:26:05 UTC
+ Last Updated on 07/08/2026 19:30:00 UTC
 <!--END_SECTION:waka-->
 
 
