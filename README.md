@@ -39,9 +39,9 @@ const krajtilak = {
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-91%20hrs%2024%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-18-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-19-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.37%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.96%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -58,21 +58,21 @@ const krajtilak = {
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                493 commits         █████░░░░░░░░░░░░░░░░░░░░   20.87 % 
-🌆 Daytime                864 commits         █████████░░░░░░░░░░░░░░░░   36.58 % 
-🌃 Evening                700 commits         ███████░░░░░░░░░░░░░░░░░░   29.64 % 
-🌙 Night                  305 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.91 % 
+🌞 Morning                587 commits         █████░░░░░░░░░░░░░░░░░░░░   19.83 % 
+🌆 Daytime                1038 commits        █████████░░░░░░░░░░░░░░░░   35.07 % 
+🌃 Evening                850 commits         ███████░░░░░░░░░░░░░░░░░░   28.72 % 
+🌙 Night                  485 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.39 % 
 ```
 📅 **I'm Most Productive on Friday** 
 
 ```text
-Monday                   344 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.56 % 
-Tuesday                  300 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.70 % 
-Wednesday                294 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.45 % 
-Thursday                 295 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.49 % 
-Friday                   449 commits         █████░░░░░░░░░░░░░░░░░░░░   19.01 % 
-Saturday                 333 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.10 % 
-Sunday                   347 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.69 % 
+Monday                   441 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.90 % 
+Tuesday                  374 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.64 % 
+Wednesday                409 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.82 % 
+Thursday                 380 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.84 % 
+Friday                   535 commits         █████░░░░░░░░░░░░░░░░░░░░   18.07 % 
+Saturday                 404 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.65 % 
+Sunday                   417 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.09 % 
 ```
 
 
@@ -82,46 +82,46 @@ Sunday                   347 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Dart                     14 hrs 34 mins      ████████████████░░░░░░░░░   65.11 % 
-YAML                     3 hrs 46 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.90 % 
-Other                    1 hr 32 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.92 % 
-HTML                     44 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.29 % 
-JSON                     41 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.07 % 
+Dart                     13 hrs 15 mins      █████████████████░░░░░░░░   67.19 % 
+YAML                     3 hrs 33 mins       █████░░░░░░░░░░░░░░░░░░░░   18.04 % 
+Other                    1 hr 32 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.85 % 
+JSON                     27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.30 % 
+Kotlin                   12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.05 % 
 
 🔥 Editors: 
-Antigravity CLI          14 hrs 34 mins      ████████████████░░░░░░░░░   65.12 % 
-VS Code                  7 hrs 48 mins       █████████░░░░░░░░░░░░░░░░   34.88 % 
+Antigravity CLI          12 hrs 36 mins      ████████████████░░░░░░░░░   63.92 % 
+VS Code                  7 hrs 7 mins        █████████░░░░░░░░░░░░░░░░   36.08 % 
 
 🐱‍💻 Projects: 
-nummo                    20 hrs 55 mins      ███████████████████████░░   93.52 % 
-krajtilak                1 hr 25 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.35 % 
-config                   1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 % 
+nummo                    18 hrs 16 mins      ███████████████████████░░   92.66 % 
+krajtilak                1 hr 25 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.21 % 
+config                   1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 % 
 
 💻 Operating System: 
-Linux                    22 hrs 22 mins      █████████████████████████   100.00 % 
+Linux                    19 hrs 43 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 21 hrs 8 mins (94.5%)
+⏱ AI Coding Time: 18 hrs 38 mins (94.46%)
 
-✍️ 3,669 lines written by AI, 68 lines written by hand (98.18% AI-written)
+✍️ 3,570 lines written by AI, 67 lines written by hand (98.16% AI-written)
 
-🔤 1,678,104 Input Tokens, 16,505 Output Tokens
+🔤 263,368 Input Tokens, 4,208 Output Tokens
 
-💵 $4.47 Estimated AI Cost This Week
+💵 $0.75 Estimated AI Cost This Week
 
-🧠 44 AI Sessions, 351 AI Prompts
+🧠 35 AI Sessions, 311 AI Prompts
 
-Gemini                   5,384 lines         █████████████████████████   100.00 % 
+Gemini                   5,198 lines         █████████████████████████   100.00 % 
 GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 98.18% of written lines came from AI
-📝 Concise Prompter — average 300 characters per prompt
-🔁 Iterative Prompter — average 8 prompts per session
-🚀 High AI Trust — 1.83% of changed lines were hand-edited
+🤖 AI-Driven — 98.16% of written lines came from AI
+📝 Concise Prompter — average 243 characters per prompt
+🔁 Iterative Prompter — average 9 prompts per session
+🚀 High AI Trust — 1.88% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -141,7 +141,7 @@ Dart                     2 repos             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/rajtilak-2020/rajtilak-2020/main/assets/bar_graph.png)
 
 
- Last Updated on 11/08/2026 19:36:31 UTC
+ Last Updated on 12/08/2026 19:37:33 UTC
 <!--END_SECTION:waka-->
 
 
