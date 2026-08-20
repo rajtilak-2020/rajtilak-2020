@@ -35,11 +35,11 @@ const krajtilak = {
 ## ⌨️ My Coding Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-419%20hrs%2019%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-420%20hrs%2035%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-97%20hrs%2037%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-98%20hrs%2031%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-19-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-13-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.01%20million%20lines%20of%20code-blue?style=flat)
 
@@ -82,47 +82,47 @@ Sunday                   476 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Dart                     3 hrs 37 mins       ██████████████░░░░░░░░░░░   55.26 % 
-TypeScript               50 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.94 % 
-YAML                     44 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.20 % 
-HTML                     24 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.17 % 
-fish                     18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.68 % 
+Dart                     4 hrs 4 mins        █████████████░░░░░░░░░░░░   52.46 % 
+TypeScript               1 hr 19 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.01 % 
+YAML                     44 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.46 % 
+HTML                     32 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.89 % 
+XML                      22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.80 % 
 
 🔥 Editors: 
-Antigravity CLI          4 hrs 36 mins       ██████████████████░░░░░░░   70.41 % 
-VS Code                  1 hr 56 mins        ███████░░░░░░░░░░░░░░░░░░   29.59 % 
+Antigravity CLI          5 hrs 14 mins       █████████████████░░░░░░░░   67.49 % 
+VS Code                  2 hrs 31 mins       ████████░░░░░░░░░░░░░░░░░   32.51 % 
 
 🐱‍💻 Projects: 
-nummo                    4 hrs 57 mins       ███████████████████░░░░░░   75.58 % 
-Odrocon                  54 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.75 % 
-dots                     18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.68 % 
-Nummo-Website            17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.57 % 
-krajtilak                4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.26 % 
+nummo                    5 hrs 20 mins       █████████████████░░░░░░░░   68.88 % 
+Odrocon                  54 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.62 % 
+GreenAI-2026             48 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.49 % 
+dots                     18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.95 % 
+Nummo-Website            17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.86 % 
 
 💻 Operating System: 
-Linux                    6 hrs 33 mins       █████████████████████████   100.00 % 
+Linux                    7 hrs 45 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 6 hrs 19 mins (96.37%)
+⏱ AI Coding Time: 7 hrs 8 mins (92.14%)
 
-✍️ 1,423 lines written by AI, 6 lines written by hand (99.58% AI-written)
+✍️ 1,423 lines written by AI, 27 lines written by hand (98.14% AI-written)
 
 🔤 0 Input Tokens, 0 Output Tokens
 
 💵 $0.00 Estimated AI Cost This Week
 
-🧠 12 AI Sessions, 132 AI Prompts
+🧠 14 AI Sessions, 141 AI Prompts
 
 Gemini                   1,891 lines         █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.58% of written lines came from AI
-📝 Concise Prompter — average 199 characters per prompt
-🔁 Iterative Prompter — average 11 prompts per session
-🚀 High AI Trust — 0.73% of changed lines were hand-edited
+🤖 AI-Driven — 98.14% of written lines came from AI
+📝 Concise Prompter — average 198 characters per prompt
+🔁 Iterative Prompter — average 10 prompts per session
+🚀 High AI Trust — 2.17% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -142,7 +142,7 @@ Dart                     2 repos             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/rajtilak-2020/rajtilak-2020/main/assets/bar_graph.png)
 
 
- Last Updated on 19/08/2026 19:05:12 UTC
+ Last Updated on 20/08/2026 19:12:39 UTC
 <!--END_SECTION:waka-->
 
 
