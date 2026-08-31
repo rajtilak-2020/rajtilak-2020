@@ -35,92 +35,26 @@ const krajtilak = {
 ## ⌨️ My Coding Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-430%20hrs%2057%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-432%20hrs%2059%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-110%20hrs%2022%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-112%20hrs%2043%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-15-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.38%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.08%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 4.5 MB Used in GitHub's Storage 
  > 
-> 🏆 791 Contributions in the Year 2026
+> 🏆 795 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
-> 📜 148 Public Repositories 
+> 📜 149 Public Repositories 
  > 
 > 🔑 27 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                503 commits         █████░░░░░░░░░░░░░░░░░░░░   20.81 % 
-🌆 Daytime                877 commits         █████████░░░░░░░░░░░░░░░░   36.28 % 
-🌃 Evening                731 commits         ████████░░░░░░░░░░░░░░░░░   30.24 % 
-🌙 Night                  306 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.66 % 
-```
-📅 **I'm Most Productive on Friday** 
-
-```text
-Monday                   347 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.36 % 
-Tuesday                  307 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.70 % 
-Wednesday                300 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.41 % 
-Thursday                 308 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.74 % 
-Friday                   457 commits         █████░░░░░░░░░░░░░░░░░░░░   18.91 % 
-Saturday                 342 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.15 % 
-Sunday                   356 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.73 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Kolkata
-
-💬 Programming Languages: 
-YAML                     3 hrs 2 mins        ████████░░░░░░░░░░░░░░░░░   31.02 % 
-Dart                     2 hrs 58 mins       ████████░░░░░░░░░░░░░░░░░   30.33 % 
-Other                    1 hr 46 mins        █████░░░░░░░░░░░░░░░░░░░░   18.12 % 
-HTML                     1 hr 32 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.74 % 
-Java Properties          13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.36 % 
-
-🔥 Editors: 
-Antigravity CLI          6 hrs 47 mins       █████████████████░░░░░░░░   69.16 % 
-VS Code                  3 hrs 1 min         ████████░░░░░░░░░░░░░░░░░   30.84 % 
-
-🐱‍💻 Projects: 
-nummo                    8 hrs 46 mins       ██████████████████████░░░   89.42 % 
-krajtilak                54 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.20 % 
-GreenAI-2026             8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.38 % 
-
-💻 Operating System: 
-Linux                    9 hrs 49 mins       █████████████████████████   100.00 % 
-```
-
-🤖 **AI Coding This Week** 
-
-```text
-⏱ AI Coding Time: 9 hrs 22 mins (95.47%)
-
-✍️ 0 lines written by AI, 1 lines written by hand (0.0% AI-written)
-
-🔤 0 Input Tokens, 0 Output Tokens
-
-💵 $0.00 Estimated AI Cost This Week
-
-🧠 19 AI Sessions, 161 AI Prompts
-
-🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
-📝 Concise Prompter — average 355 characters per prompt
-🔁 Iterative Prompter — average 8 prompts per session
-🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
-```
-
 **I Mostly Code in TypeScript** 
 
 ```text
@@ -138,7 +72,7 @@ Dart                     2 repos             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/rajtilak-2020/rajtilak-2020/main/assets/bar_graph.png)
 
 
- Last Updated on 30/08/2026 21:22:24 UTC
+ Last Updated on 31/08/2026 23:01:49 UTC
 <!--END_SECTION:waka-->
 
 
