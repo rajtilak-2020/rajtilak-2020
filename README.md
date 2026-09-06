@@ -35,9 +35,9 @@ const krajtilak = {
 ## ⌨️ My Coding Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-444%20hrs%2020%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-445%20hrs%2038%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-125%20hrs%2035%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-126%20hrs%2033%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue?style=flat)
 
@@ -82,46 +82,46 @@ Sunday                   532 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Dart                     7 hrs 6 mins        █████████░░░░░░░░░░░░░░░░   36.84 % 
-Other                    2 hrs 59 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.47 % 
-YAML                     2 hrs 27 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.73 % 
-HTML                     2 hrs 15 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.72 % 
-XML                      1 hr 43 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.92 % 
+Dart                     6 hrs 20 mins       █████████░░░░░░░░░░░░░░░░   35.87 % 
+Other                    2 hrs 59 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.90 % 
+Kotlin                   2 hrs 10 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.28 % 
+YAML                     1 hr 46 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.07 % 
+XML                      1 hr 38 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.29 % 
 
 🔥 Editors: 
-Antigravity CLI          12 hrs 11 mins      ████████████████░░░░░░░░░   63.21 % 
-VS Code                  7 hrs 5 mins        █████████░░░░░░░░░░░░░░░░   36.79 % 
+Antigravity CLI          11 hrs 44 mins      █████████████████░░░░░░░░   66.51 % 
+VS Code                  5 hrs 55 mins       ████████░░░░░░░░░░░░░░░░░   33.49 % 
 
 🐱‍💻 Projects: 
-nummo                    16 hrs 7 mins       █████████████████████░░░░   83.56 % 
-krajtilak                1 hr 29 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 % 
-APM-Organics_E-Commerce  54 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.74 % 
-DBMS Lab                 44 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.84 % 
-Portfolio-V5             1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 % 
+nummo                    14 hrs 29 mins      █████████████████████░░░░   82.04 % 
+krajtilak                1 hr 29 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.40 % 
+APM-Organics_E-Commerce  54 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.18 % 
+DBMS Lab                 44 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.20 % 
+Portfolio-V5             1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 % 
 
 💻 Operating System: 
-Linux                    19 hrs 17 mins      █████████████████████████   100.00 % 
+Linux                    17 hrs 39 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 17 hrs 49 mins (92.35%)
+⏱ AI Coding Time: 16 hrs 10 mins (91.6%)
 
-✍️ 0 lines written by AI, 76 lines written by hand (0.0% AI-written)
+✍️ 0 lines written by AI, 75 lines written by hand (0.0% AI-written)
 
 🔤 13,319 Input Tokens, 454 Output Tokens
 
 💵 $0.12 Estimated AI Cost This Week
 
-🧠 24 AI Sessions, 242 AI Prompts
+🧠 24 AI Sessions, 211 AI Prompts
 
 Nemotron                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
-📝 Concise Prompter — average 409 characters per prompt
-🔁 Iterative Prompter — average 10 prompts per session
+📝 Concise Prompter — average 447 characters per prompt
+🔁 Iterative Prompter — average 9 prompts per session
 🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
 ```
 
@@ -142,7 +142,7 @@ Dart                     2 repos             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/rajtilak-2020/rajtilak-2020/main/assets/bar_graph.png)
 
 
- Last Updated on 05/09/2026 20:36:00 UTC
+ Last Updated on 06/09/2026 20:37:37 UTC
 <!--END_SECTION:waka-->
 
 
