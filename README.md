@@ -35,44 +35,44 @@ const krajtilak = {
 ## ⌨️ My Coding Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-450%20hrs%2016%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-451%20hrs%2040%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-133%20hrs%2020%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-135%20hrs-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-5-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.65%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.66%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 4.6 MB Used in GitHub's Storage 
  > 
-> 🏆 831 Contributions in the Year 2026
+> 🏆 840 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
-> 📜 149 Public Repositories 
+> 📜 150 Public Repositories 
  > 
 > 🔑 30 Private Repositories 
  > 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                640 commits         █████░░░░░░░░░░░░░░░░░░░░   19.25 % 
-🌆 Daytime                1146 commits        █████████░░░░░░░░░░░░░░░░   34.48 % 
-🌃 Evening                1038 commits        ████████░░░░░░░░░░░░░░░░░   31.23 % 
-🌙 Night                  500 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.04 % 
+🌞 Morning                640 commits         █████░░░░░░░░░░░░░░░░░░░░   19.21 % 
+🌆 Daytime                1147 commits        █████████░░░░░░░░░░░░░░░░   34.42 % 
+🌃 Evening                1045 commits        ████████░░░░░░░░░░░░░░░░░   31.36 % 
+🌙 Night                  500 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.01 % 
 ```
 📅 **I'm Most Productive on Friday** 
 
 ```text
-Monday                   480 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.44 % 
-Tuesday                  414 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.45 % 
-Wednesday                417 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.55 % 
-Thursday                 448 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.48 % 
-Friday                   592 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.81 % 
-Saturday                 441 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.27 % 
-Sunday                   532 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.00 % 
+Monday                   480 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.41 % 
+Tuesday                  414 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.42 % 
+Wednesday                417 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.52 % 
+Thursday                 448 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.45 % 
+Friday                   592 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.77 % 
+Saturday                 449 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.48 % 
+Sunday                   532 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.97 % 
 ```
 
 
@@ -82,43 +82,44 @@ Sunday                   532 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Dart                     3 hrs 46 mins       ██████░░░░░░░░░░░░░░░░░░░   22.02 % 
-Kotlin                   3 hrs 44 mins       █████░░░░░░░░░░░░░░░░░░░░   21.87 % 
-Other                    3 hrs 10 mins       █████░░░░░░░░░░░░░░░░░░░░   18.58 % 
-TypeScript               2 hrs 12 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.91 % 
-XML                      1 hr 31 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.91 % 
+Other                    3 hrs 20 mins       ████████░░░░░░░░░░░░░░░░░   31.28 % 
+TypeScript               2 hrs 48 mins       ███████░░░░░░░░░░░░░░░░░░   26.28 % 
+Kotlin                   2 hrs 37 mins       ██████░░░░░░░░░░░░░░░░░░░   24.68 % 
+Markdown                 48 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.65 % 
+YAML                     30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.70 % 
 
 🔥 Editors: 
-Antigravity CLI          12 hrs 13 mins      ██████████████████░░░░░░░   71.34 % 
-VS Code                  4 hrs 54 mins       ███████░░░░░░░░░░░░░░░░░░   28.66 % 
+Antigravity CLI          8 hrs 22 mins       ████████████████████░░░░░   78.50 % 
+VS Code                  2 hrs 17 mins       █████░░░░░░░░░░░░░░░░░░░░   21.50 % 
 
 🐱‍💻 Projects: 
-nummo                    11 hrs 15 mins      ████████████████░░░░░░░░░   65.70 % 
-Neelaxi-Software         3 hrs 33 mins       █████░░░░░░░░░░░░░░░░░░░░   20.81 % 
-krajtilak                2 hrs 8 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.50 % 
-GreenAI-2027             10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.98 % 
+Neelaxi-Software         4 hrs 8 mins        ██████████░░░░░░░░░░░░░░░   38.87 % 
+nummo                    3 hrs 4 mins        ███████░░░░░░░░░░░░░░░░░░   28.90 % 
+krajtilak                1 hr 53 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.82 % 
+SSU-Innovation           52 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.27 % 
+GreenAI-2027             39 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.13 % 
 
 💻 Operating System: 
-Linux                    17 hrs 7 mins       █████████████████████████   100.00 % 
+Linux                    10 hrs 39 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 16 hrs 1 min (93.54%)
+⏱ AI Coding Time: 9 hrs 25 mins (88.42%)
 
-✍️ 0 lines written by AI, 463 lines written by hand (0.0% AI-written)
+✍️ 0 lines written by AI, 435 lines written by hand (0.0% AI-written)
 
 🔤 0 Input Tokens, 0 Output Tokens
 
 💵 $0.00 Estimated AI Cost This Week
 
-🧠 33 AI Sessions, 216 AI Prompts
+🧠 32 AI Sessions, 152 AI Prompts
 
 🔎 AI Coding Insights:
 🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
-📝 Concise Prompter — average 388 characters per prompt
-🔁 Iterative Prompter — average 7 prompts per session
+📝 Concise Prompter — average 212 characters per prompt
+🔁 Iterative Prompter — average 5 prompts per session
 🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
 ```
 
@@ -139,7 +140,7 @@ Dart                     2 repos             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/rajtilak-2020/rajtilak-2020/main/assets/bar_graph.png)
 
 
- Last Updated on 11/09/2026 21:10:07 UTC
+ Last Updated on 12/09/2026 20:47:50 UTC
 <!--END_SECTION:waka-->
 
 
