@@ -39,7 +39,7 @@ const krajtilak = {
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-136%20hrs%2034%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.66%20million%20lines%20of%20code-blue?style=flat)
 
@@ -82,21 +82,21 @@ Sunday                   532 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-TypeScript               4 hrs 6 mins        █████████░░░░░░░░░░░░░░░░   36.06 % 
-Other                    3 hrs 47 mins       ████████░░░░░░░░░░░░░░░░░   33.28 % 
+TypeScript               4 hrs 7 mins        █████████░░░░░░░░░░░░░░░░   36.08 % 
+Other                    3 hrs 47 mins       ████████░░░░░░░░░░░░░░░░░   33.27 % 
 Kotlin                   1 hr 34 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.81 % 
 Markdown                 48 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.14 % 
 YAML                     35 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.25 % 
 
 🔥 Editors: 
-Antigravity CLI          8 hrs 33 mins       ███████████████████░░░░░░   74.98 % 
-VS Code                  2 hrs 51 mins       ██████░░░░░░░░░░░░░░░░░░░   25.02 % 
+Antigravity CLI          8 hrs 33 mins       ███████████████████░░░░░░   74.95 % 
+VS Code                  2 hrs 51 mins       ██████░░░░░░░░░░░░░░░░░░░   25.05 % 
 
 🐱‍💻 Projects: 
-Neelaxi-Software         4 hrs 8 mins        █████████░░░░░░░░░░░░░░░░   36.32 % 
-krajtilak                2 hrs 18 mins       █████░░░░░░░░░░░░░░░░░░░░   20.25 % 
-nummo                    1 hr 47 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.68 % 
-APM-Organics_E-Commerce  1 hr 21 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.88 % 
+Neelaxi-Software         4 hrs 8 mins        █████████░░░░░░░░░░░░░░░░   36.30 % 
+krajtilak                2 hrs 18 mins       █████░░░░░░░░░░░░░░░░░░░░   20.24 % 
+nummo                    1 hr 47 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.67 % 
+APM-Organics_E-Commerce  1 hr 21 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.92 % 
 GreenAI-2027             55 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.14 % 
 
 💻 Operating System: 
@@ -106,7 +106,7 @@ Linux                    11 hrs 24 mins      ███████████�
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 10 hrs 1 min (87.83%)
+⏱ AI Coding Time: 10 hrs 1 min (87.79%)
 
 ✍️ 0 lines written by AI, 488 lines written by hand (0.0% AI-written)
 
@@ -140,7 +140,7 @@ Dart                     2 repos             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/rajtilak-2020/rajtilak-2020/main/assets/bar_graph.png)
 
 
- Last Updated on 13/09/2026 21:02:13 UTC
+ Last Updated on 14/09/2026 21:59:59 UTC
 <!--END_SECTION:waka-->
 
 
