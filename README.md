@@ -35,11 +35,11 @@ const krajtilak = {
 ## ⌨️ My Coding Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-453%20hrs%2015%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-454%20hrs%2029%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-136%20hrs%2034%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-136%20hrs%2048%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.66%20million%20lines%20of%20code-blue?style=flat)
 
@@ -82,44 +82,44 @@ Sunday                   532 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-TypeScript               4 hrs 7 mins        █████████░░░░░░░░░░░░░░░░   36.08 % 
-Other                    3 hrs 47 mins       ████████░░░░░░░░░░░░░░░░░   33.27 % 
-Kotlin                   1 hr 34 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.81 % 
-Markdown                 48 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.14 % 
-YAML                     35 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.25 % 
+TypeScript               4 hrs 35 mins       ████████████░░░░░░░░░░░░░   47.24 % 
+Other                    3 hrs 26 mins       █████████░░░░░░░░░░░░░░░░   35.43 % 
+Markdown                 52 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.95 % 
+YAML                     35 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.15 % 
+Text                     5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.96 % 
 
 🔥 Editors: 
-Antigravity CLI          8 hrs 33 mins       ███████████████████░░░░░░   74.95 % 
-VS Code                  2 hrs 51 mins       ██████░░░░░░░░░░░░░░░░░░░   25.05 % 
+Antigravity CLI          6 hrs 25 mins       ████████████████░░░░░░░░░   65.97 % 
+VS Code                  3 hrs 18 mins       █████████░░░░░░░░░░░░░░░░   34.03 % 
 
 🐱‍💻 Projects: 
-Neelaxi-Software         4 hrs 8 mins        █████████░░░░░░░░░░░░░░░░   36.30 % 
-krajtilak                2 hrs 18 mins       █████░░░░░░░░░░░░░░░░░░░░   20.24 % 
-nummo                    1 hr 47 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.67 % 
-APM-Organics_E-Commerce  1 hr 21 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.92 % 
-GreenAI-2027             55 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.14 % 
+Neelaxi-Software         2 hrs 53 mins       ███████░░░░░░░░░░░░░░░░░░   29.64 % 
+APM-Organics_E-Commerce  2 hrs 35 mins       ███████░░░░░░░░░░░░░░░░░░   26.66 % 
+krajtilak                2 hrs 14 mins       ██████░░░░░░░░░░░░░░░░░░░   22.99 % 
+GreenAI-2027             55 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.54 % 
+SSU-Innovation           52 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.06 % 
 
 💻 Operating System: 
-Linux                    11 hrs 24 mins      █████████████████████████   100.00 % 
+Linux                    9 hrs 44 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 10 hrs 1 min (87.79%)
+⏱ AI Coding Time: 7 hrs 26 mins (76.52%)
 
-✍️ 0 lines written by AI, 488 lines written by hand (0.0% AI-written)
+✍️ 0 lines written by AI, 492 lines written by hand (0.0% AI-written)
 
 🔤 0 Input Tokens, 0 Output Tokens
 
 💵 $0.00 Estimated AI Cost This Week
 
-🧠 35 AI Sessions, 210 AI Prompts
+🧠 29 AI Sessions, 196 AI Prompts
 
 🔎 AI Coding Insights:
 🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
-📝 Concise Prompter — average 187 characters per prompt
-🔁 Iterative Prompter — average 6 prompts per session
+📝 Concise Prompter — average 204 characters per prompt
+🔁 Iterative Prompter — average 7 prompts per session
 🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
 ```
 
@@ -140,7 +140,7 @@ Dart                     2 repos             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/rajtilak-2020/rajtilak-2020/main/assets/bar_graph.png)
 
 
- Last Updated on 14/09/2026 21:59:59 UTC
+ Last Updated on 15/09/2026 21:37:39 UTC
 <!--END_SECTION:waka-->
 
 
