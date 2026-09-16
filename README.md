@@ -35,9 +35,9 @@ const krajtilak = {
 ## ⌨️ My Coding Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-454%20hrs%2029%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-455%20hrs%2019%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-136%20hrs%2048%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-137%20hrs%2033%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue?style=flat)
 
@@ -47,7 +47,7 @@ const krajtilak = {
 
 > 📦 4.6 MB Used in GitHub's Storage 
  > 
-> 🏆 841 Contributions in the Year 2026
+> 🏆 845 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -58,21 +58,21 @@ const krajtilak = {
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                640 commits         █████░░░░░░░░░░░░░░░░░░░░   19.20 % 
-🌆 Daytime                1147 commits        █████████░░░░░░░░░░░░░░░░   34.41 % 
-🌃 Evening                1045 commits        ████████░░░░░░░░░░░░░░░░░   31.35 % 
-🌙 Night                  501 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.03 % 
+🌞 Morning                640 commits         █████░░░░░░░░░░░░░░░░░░░░   19.17 % 
+🌆 Daytime                1148 commits        █████████░░░░░░░░░░░░░░░░   34.39 % 
+🌃 Evening                1048 commits        ████████░░░░░░░░░░░░░░░░░   31.40 % 
+🌙 Night                  502 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.04 % 
 ```
 📅 **I'm Most Productive on Friday** 
 
 ```text
-Monday                   481 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.43 % 
-Tuesday                  414 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.42 % 
-Wednesday                417 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.51 % 
-Thursday                 448 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.44 % 
-Friday                   592 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.76 % 
-Saturday                 449 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.47 % 
-Sunday                   532 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.96 % 
+Monday                   481 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.41 % 
+Tuesday                  414 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.40 % 
+Wednesday                421 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.61 % 
+Thursday                 449 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.45 % 
+Friday                   592 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.74 % 
+Saturday                 449 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.45 % 
+Sunday                   532 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.94 % 
 ```
 
 
@@ -82,44 +82,44 @@ Sunday                   532 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-TypeScript               4 hrs 35 mins       ████████████░░░░░░░░░░░░░   47.24 % 
-Other                    3 hrs 26 mins       █████████░░░░░░░░░░░░░░░░   35.43 % 
-Markdown                 52 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.95 % 
-YAML                     35 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.15 % 
-Text                     5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.96 % 
+TypeScript               4 hrs 53 mins       █████████████░░░░░░░░░░░░   51.42 % 
+Other                    2 hrs 32 mins       ███████░░░░░░░░░░░░░░░░░░   26.81 % 
+Markdown                 1 hr 3 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.23 % 
+YAML                     35 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.30 % 
+SQL                      11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   02.00 % 
 
 🔥 Editors: 
-Antigravity CLI          6 hrs 25 mins       ████████████████░░░░░░░░░   65.97 % 
-VS Code                  3 hrs 18 mins       █████████░░░░░░░░░░░░░░░░   34.03 % 
+Antigravity CLI          5 hrs 54 mins       ████████████████░░░░░░░░░   62.22 % 
+VS Code                  3 hrs 35 mins       █████████░░░░░░░░░░░░░░░░   37.78 % 
 
 🐱‍💻 Projects: 
-Neelaxi-Software         2 hrs 53 mins       ███████░░░░░░░░░░░░░░░░░░   29.64 % 
-APM-Organics_E-Commerce  2 hrs 35 mins       ███████░░░░░░░░░░░░░░░░░░   26.66 % 
-krajtilak                2 hrs 14 mins       ██████░░░░░░░░░░░░░░░░░░░   22.99 % 
-GreenAI-2027             55 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.54 % 
-SSU-Innovation           52 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.06 % 
+APM-Organics_E-Commerce  3 hrs 25 mins       █████████░░░░░░░░░░░░░░░░   36.10 % 
+Neelaxi-Software         2 hrs 53 mins       ████████░░░░░░░░░░░░░░░░░   30.38 % 
+krajtilak                1 hr 32 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.21 % 
+SSU-Innovation           52 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.28 % 
+GreenAI-2027             45 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.02 % 
 
 💻 Operating System: 
-Linux                    9 hrs 44 mins       █████████████████████████   100.00 % 
+Linux                    9 hrs 29 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 7 hrs 26 mins (76.52%)
+⏱ AI Coding Time: 7 hrs 6 mins (74.8%)
 
-✍️ 0 lines written by AI, 492 lines written by hand (0.0% AI-written)
+✍️ 0 lines written by AI, 114 lines written by hand (0.0% AI-written)
 
 🔤 0 Input Tokens, 0 Output Tokens
 
 💵 $0.00 Estimated AI Cost This Week
 
-🧠 29 AI Sessions, 196 AI Prompts
+🧠 24 AI Sessions, 188 AI Prompts
 
 🔎 AI Coding Insights:
 🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
-📝 Concise Prompter — average 204 characters per prompt
-🔁 Iterative Prompter — average 7 prompts per session
+📝 Concise Prompter — average 213 characters per prompt
+🔁 Iterative Prompter — average 8 prompts per session
 🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
 ```
 
@@ -140,7 +140,7 @@ Dart                     2 repos             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/rajtilak-2020/rajtilak-2020/main/assets/bar_graph.png)
 
 
- Last Updated on 15/09/2026 21:37:39 UTC
+ Last Updated on 16/09/2026 21:32:33 UTC
 <!--END_SECTION:waka-->
 
 
