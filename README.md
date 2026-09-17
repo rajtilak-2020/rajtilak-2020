@@ -35,9 +35,9 @@ const krajtilak = {
 ## ⌨️ My Coding Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-455%20hrs%2019%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-456%20hrs%2059%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-137%20hrs%2033%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-139%20hrs%201%20min-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue?style=flat)
 
@@ -82,44 +82,44 @@ Sunday                   532 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-TypeScript               4 hrs 53 mins       █████████████░░░░░░░░░░░░   51.42 % 
-Other                    2 hrs 32 mins       ███████░░░░░░░░░░░░░░░░░░   26.81 % 
-Markdown                 1 hr 3 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.23 % 
-YAML                     35 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.30 % 
-SQL                      11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   02.00 % 
+TypeScript               5 hrs 43 mins       ███████████████░░░░░░░░░░   59.88 % 
+Other                    1 hr 46 mins        █████░░░░░░░░░░░░░░░░░░░░   18.49 % 
+Markdown                 1 hr 3 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.15 % 
+YAML                     36 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.27 % 
+SQL                      11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.99 % 
 
 🔥 Editors: 
-Antigravity CLI          5 hrs 54 mins       ████████████████░░░░░░░░░   62.22 % 
-VS Code                  3 hrs 35 mins       █████████░░░░░░░░░░░░░░░░   37.78 % 
+Antigravity CLI          5 hrs 50 mins       ███████████████░░░░░░░░░░   61.15 % 
+VS Code                  3 hrs 42 mins       ██████████░░░░░░░░░░░░░░░   38.85 % 
 
 🐱‍💻 Projects: 
-APM-Organics_E-Commerce  3 hrs 25 mins       █████████░░░░░░░░░░░░░░░░   36.10 % 
-Neelaxi-Software         2 hrs 53 mins       ████████░░░░░░░░░░░░░░░░░   30.38 % 
-krajtilak                1 hr 32 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.21 % 
-SSU-Innovation           52 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.28 % 
-GreenAI-2027             45 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.02 % 
+APM-Organics_E-Commerce  3 hrs 25 mins       █████████░░░░░░░░░░░░░░░░   35.86 % 
+Neelaxi-Software         2 hrs 19 mins       ██████░░░░░░░░░░░░░░░░░░░   24.24 % 
+GreenAI-2027             1 hr 52 mins        █████░░░░░░░░░░░░░░░░░░░░   19.53 % 
+krajtilak                1 hr 3 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.15 % 
+SSU-Innovation           52 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.22 % 
 
 💻 Operating System: 
-Linux                    9 hrs 29 mins       █████████████████████████   100.00 % 
+Linux                    9 hrs 33 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 7 hrs 6 mins (74.8%)
+⏱ AI Coding Time: 6 hrs 58 mins (72.95%)
 
-✍️ 0 lines written by AI, 114 lines written by hand (0.0% AI-written)
+✍️ 0 lines written by AI, 526 lines written by hand (0.0% AI-written)
 
 🔤 0 Input Tokens, 0 Output Tokens
 
 💵 $0.00 Estimated AI Cost This Week
 
-🧠 24 AI Sessions, 188 AI Prompts
+🧠 19 AI Sessions, 187 AI Prompts
 
 🔎 AI Coding Insights:
 🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
-📝 Concise Prompter — average 213 characters per prompt
-🔁 Iterative Prompter — average 8 prompts per session
+📝 Concise Prompter — average 210 characters per prompt
+🔁 Iterative Prompter — average 10 prompts per session
 🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
 ```
 
@@ -140,7 +140,7 @@ Dart                     2 repos             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/rajtilak-2020/rajtilak-2020/main/assets/bar_graph.png)
 
 
- Last Updated on 16/09/2026 21:32:33 UTC
+ Last Updated on 17/09/2026 21:36:39 UTC
 <!--END_SECTION:waka-->
 
 
