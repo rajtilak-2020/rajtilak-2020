@@ -39,7 +39,7 @@ const krajtilak = {
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-148%20hrs%2022%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.68%20million%20lines%20of%20code-blue?style=flat)
 
@@ -82,45 +82,44 @@ Sunday                   532 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-JavaScript               2 hrs 18 mins       ████████░░░░░░░░░░░░░░░░░   30.24 % 
-Other                    2 hrs 2 mins        ███████░░░░░░░░░░░░░░░░░░   26.69 % 
-TypeScript               1 hr 17 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.83 % 
-Text                     52 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.42 % 
-Bash                     32 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.05 % 
+JavaScript               2 hrs 18 mins       ██████████░░░░░░░░░░░░░░░   39.25 % 
+Other                    2 hrs 2 mins        █████████░░░░░░░░░░░░░░░░   34.67 % 
+Text                     52 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.83 % 
+JSON                     19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.62 % 
+Markdown                 15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.32 % 
 
 🔥 Editors: 
-Antigravity CLI          5 hrs 38 mins       ██████████████████░░░░░░░   73.75 % 
-VS Code                  2 hrs               ███████░░░░░░░░░░░░░░░░░░   26.25 % 
+Antigravity CLI          4 hrs 30 mins       ███████████████████░░░░░░   76.57 % 
+VS Code                  1 hr 22 mins        ██████░░░░░░░░░░░░░░░░░░░   23.43 % 
 
 🐱‍💻 Projects: 
-mc-bot                   3 hrs 52 mins       █████████████░░░░░░░░░░░░   50.59 % 
-krajtilak                2 hrs 1 min         ███████░░░░░░░░░░░░░░░░░░   26.39 % 
-APM-Organics_E-Commerce  1 hr 45 mins        ██████░░░░░░░░░░░░░░░░░░░   23.02 % 
+mc-bot                   3 hrs 52 mins       ████████████████░░░░░░░░░   65.72 % 
+krajtilak                2 hrs 1 min         █████████░░░░░░░░░░░░░░░░   34.28 % 
 
 💻 Operating System: 
-Linux                    7 hrs 39 mins       █████████████████████████   100.00 % 
+Linux                    5 hrs 53 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 7 hrs 18 mins (95.36%)
+⏱ AI Coding Time: 5 hrs 42 mins (96.7%)
 
-✍️ 592 lines written by AI, 63 lines written by hand (90.38% AI-written)
+✍️ 592 lines written by AI, 24 lines written by hand (96.1% AI-written)
 
 🔤 1,068,184 Input Tokens, 40,984 Output Tokens
 
 💵 $0.95 Estimated AI Cost This Week
 
-🧠 6 AI Sessions, 117 AI Prompts
+🧠 5 AI Sessions, 93 AI Prompts
 
 Gemini                   592 lines           █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 90.38% of written lines came from AI
-📝 Concise Prompter — average 352 characters per prompt
-🔁 Iterative Prompter — average 20 prompts per session
-🚀 High AI Trust — 31.4% of changed lines were hand-edited
+🤖 AI-Driven — 96.1% of written lines came from AI
+📝 Concise Prompter — average 322 characters per prompt
+🔁 Iterative Prompter — average 19 prompts per session
+🚀 High AI Trust — 27.89% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -140,7 +139,7 @@ Dart                     2 repos             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/rajtilak-2020/rajtilak-2020/main/assets/bar_graph.png)
 
 
- Last Updated on 29/09/2026 22:31:33 UTC
+ Last Updated on 30/09/2026 22:30:36 UTC
 <!--END_SECTION:waka-->
 
 
