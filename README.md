@@ -82,44 +82,38 @@ Sunday                   532 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-JavaScript               2 hrs 18 mins       ████████████░░░░░░░░░░░░░   47.36 % 
-Other                    1 hr 2 mins         █████░░░░░░░░░░░░░░░░░░░░   21.17 % 
-Text                     52 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.89 % 
-JSON                     19 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.78 % 
-Markdown                 15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.21 % 
+JavaScript               15 mins             ███████████████████████░░   93.06 % 
+Text                     1 min               ██░░░░░░░░░░░░░░░░░░░░░░░   06.94 % 
 
 🔥 Editors: 
-Antigravity CLI          3 hrs 30 mins       ██████████████████░░░░░░░   71.73 % 
-VS Code                  1 hr 22 mins        ███████░░░░░░░░░░░░░░░░░░   28.27 % 
+VS Code                  9 mins              ██████████████░░░░░░░░░░░   56.86 % 
+Antigravity CLI          7 mins              ███████████░░░░░░░░░░░░░░   43.14 % 
 
 🐱‍💻 Projects: 
-mc-bot                   3 hrs 52 mins       ████████████████████░░░░░   79.29 % 
-krajtilak                1 hr                █████░░░░░░░░░░░░░░░░░░░░   20.71 % 
+mc-bot                   16 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    4 hrs 53 mins       █████████████████████████   100.00 % 
+Linux                    16 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 4 hrs 41 mins (96.02%)
+⏱ AI Coding Time: 12 mins (73.39%)
 
-✍️ 592 lines written by AI, 24 lines written by hand (96.1% AI-written)
+✍️ 0 lines written by AI, 0 lines written by hand (0% AI-written)
 
-🔤 1,068,184 Input Tokens, 40,984 Output Tokens
+🔤 0 Input Tokens, 0 Output Tokens
 
-💵 $0.95 Estimated AI Cost This Week
+💵 $0.00 Estimated AI Cost This Week
 
-🧠 4 AI Sessions, 85 AI Prompts
-
-Gemini                   592 lines           █████████████████████████   100.00 % 
+🧠 1 AI Sessions, 4 AI Prompts
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 96.1% of written lines came from AI
-📝 Concise Prompter — average 247 characters per prompt
-🔁 Iterative Prompter — average 21 prompts per session
-🚀 High AI Trust — 27.89% of changed lines were hand-edited
+🧑‍💻 Mostly Hands-On — 0% of written lines came from AI
+📄 Detailed Prompter — average 557 characters per prompt
+🔁 Iterative Prompter — average 4 prompts per session
+🚀 High AI Trust — 0% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -139,7 +133,7 @@ Dart                     2 repos             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/rajtilak-2020/rajtilak-2020/main/assets/bar_graph.png)
 
 
- Last Updated on 01/10/2026 22:52:43 UTC
+ Last Updated on 02/10/2026 22:27:53 UTC
 <!--END_SECTION:waka-->
 
 
