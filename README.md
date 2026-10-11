@@ -82,20 +82,20 @@ Sunday                   532 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Other                    1 hr 36 mins        ███████░░░░░░░░░░░░░░░░░░   29.01 % 
-JavaScript               1 hr 27 mins        ███████░░░░░░░░░░░░░░░░░░   26.35 % 
-TypeScript               33 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.94 % 
-JSON                     27 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.20 % 
-Bash                     26 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.90 % 
+Other                    1 hr 36 mins        ███████░░░░░░░░░░░░░░░░░░   29.04 % 
+JavaScript               1 hr 27 mins        ███████░░░░░░░░░░░░░░░░░░   26.38 % 
+TypeScript               33 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.95 % 
+JSON                     26 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.10 % 
+Bash                     26 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.91 % 
 
 🔥 Editors: 
-Antigravity CLI          4 hrs 7 mins        ███████████████████░░░░░░   74.50 % 
-VS Code                  1 hr 24 mins        ██████░░░░░░░░░░░░░░░░░░░   25.50 % 
+Antigravity CLI          4 hrs 7 mins        ███████████████████░░░░░░   74.48 % 
+VS Code                  1 hr 24 mins        ██████░░░░░░░░░░░░░░░░░░░   25.52 % 
 
 🐱‍💻 Projects: 
-mc-bot                   2 hrs 39 mins       ████████████░░░░░░░░░░░░░   48.08 % 
-krajtilak                1 hr 52 mins        ████████░░░░░░░░░░░░░░░░░   33.86 % 
-GreenAI-2027             1 hr                █████░░░░░░░░░░░░░░░░░░░░   18.06 % 
+mc-bot                   2 hrs 39 mins       ████████████░░░░░░░░░░░░░   48.13 % 
+krajtilak                1 hr 52 mins        ████████░░░░░░░░░░░░░░░░░   33.79 % 
+GreenAI-2027             1 hr                █████░░░░░░░░░░░░░░░░░░░░   18.08 % 
 
 💻 Operating System: 
 Linux                    5 hrs 32 mins       █████████████████████████   100.00 % 
@@ -104,23 +104,23 @@ Linux                    5 hrs 32 mins       ███████████�
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 5 hrs 7 mins (92.57%)
+⏱ AI Coding Time: 5 hrs 7 mins (92.56%)
 
-✍️ 248 lines written by AI, 1 lines written by hand (99.6% AI-written)
+✍️ 156 lines written by AI, 1 lines written by hand (99.36% AI-written)
 
-🔤 11,032,209 Input Tokens, 326,199 Output Tokens
+🔤 5,138,633 Input Tokens, 184,600 Output Tokens
 
-💵 $14.09 Estimated AI Cost This Week
+💵 $9.14 Estimated AI Cost This Week
 
-🧠 11 AI Sessions, 80 AI Prompts
+🧠 10 AI Sessions, 80 AI Prompts
 
-Gemini                   248 lines           █████████████████████████   100.00 % 
+Gemini                   156 lines           █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.6% of written lines came from AI
+🤖 AI-Driven — 99.36% of written lines came from AI
 📄 Detailed Prompter — average 1,192 characters per prompt
-🔁 Iterative Prompter — average 7 prompts per session
-🚀 High AI Trust — 0.8% of changed lines were hand-edited
+🔁 Iterative Prompter — average 8 prompts per session
+🚀 High AI Trust — 1.27% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -140,7 +140,7 @@ Dart                     2 repos             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/rajtilak-2020/rajtilak-2020/main/assets/bar_graph.png)
 
 
- Last Updated on 10/10/2026 21:57:39 UTC
+ Last Updated on 11/10/2026 22:15:29 UTC
 <!--END_SECTION:waka-->
 
 
