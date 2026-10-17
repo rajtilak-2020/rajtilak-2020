@@ -35,9 +35,9 @@ const krajtilak = {
 ## ⌨️ My Coding Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-472%20hrs%2046%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-475%20hrs%2030%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-156%20hrs%2047%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-159%20hrs%2025%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
@@ -82,46 +82,45 @@ Sunday                   585 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-TypeScript               2 hrs 40 mins       ███████████░░░░░░░░░░░░░░   42.83 % 
-JavaScript               1 hr 5 mins         ████░░░░░░░░░░░░░░░░░░░░░   17.33 % 
-JSON                     37 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.04 % 
-HTML                     37 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.86 % 
-Other                    31 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.28 % 
+TypeScript               4 hrs 35 mins       █████████████████░░░░░░░░   69.95 % 
+HTML                     53 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.54 % 
+JavaScript               15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.82 % 
+Lua                      12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.30 % 
+Other                    12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.30 % 
 
 🔥 Editors: 
-Antigravity CLI          3 hrs 23 mins       ██████████████░░░░░░░░░░░   54.05 % 
-VS Code                  2 hrs 52 mins       ███████████░░░░░░░░░░░░░░   45.95 % 
+Antigravity CLI          3 hrs 25 mins       █████████████░░░░░░░░░░░░   52.12 % 
+VS Code                  3 hrs 8 mins        ████████████░░░░░░░░░░░░░   47.88 % 
 
 🐱‍💻 Projects: 
-SSU-Innovation           3 hrs 10 mins       █████████████░░░░░░░░░░░░   50.80 % 
-GreenAI-2027             1 hr 13 mins        █████░░░░░░░░░░░░░░░░░░░░   19.45 % 
-mc-bot                   56 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.07 % 
-krajtilak                55 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.67 % 
+SSU-Innovation           5 hrs 54 mins       ███████████████████████░░   90.09 % 
+krajtilak                25 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.59 % 
+GreenAI-2027             13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.31 % 
 
 💻 Operating System: 
-Linux                    6 hrs 15 mins       █████████████████████████   100.00 % 
+Linux                    6 hrs 33 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 6 hrs (95.96%)
+⏱ AI Coding Time: 6 hrs 24 mins (97.51%)
 
-✍️ 9 lines written by AI, 10 lines written by hand (47.37% AI-written)
+✍️ 9 lines written by AI, 28 lines written by hand (24.32% AI-written)
 
-🔤 1,662,888 Input Tokens, 68,344 Output Tokens
+🔤 696,074 Input Tokens, 43,608 Output Tokens
 
-💵 $3.96 Estimated AI Cost This Week
+💵 $1.86 Estimated AI Cost This Week
 
-🧠 12 AI Sessions, 141 AI Prompts
+🧠 7 AI Sessions, 136 AI Prompts
 
 Gemini                   9 lines             █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-⚖️ Balanced with AI — 47.37% of written lines came from AI
-📝 Concise Prompter — average 297 characters per prompt
-🔁 Iterative Prompter — average 12 prompts per session
-🔍 Hands-On Reviewer — 75.0% of changed lines were hand-edited
+🧑‍💻 Mostly Hands-On — 24.32% of written lines came from AI
+📝 Concise Prompter — average 219 characters per prompt
+🔁 Iterative Prompter — average 19 prompts per session
+🔍 Hands-On Reviewer — 91.67% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -141,7 +140,7 @@ Dart                     2 repos             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/rajtilak-2020/rajtilak-2020/main/assets/bar_graph.png)
 
 
- Last Updated on 16/10/2026 21:31:12 UTC
+ Last Updated on 17/10/2026 20:50:21 UTC
 <!--END_SECTION:waka-->
 
 
