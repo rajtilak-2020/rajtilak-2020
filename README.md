@@ -82,46 +82,46 @@ Sunday                   585 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-TypeScript               5 hrs 26 mins       █████████████████████░░░░   82.38 % 
-Lua                      18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.72 % 
-HTML                     16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.11 % 
-JavaScript               13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.34 % 
-Other                    9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.39 % 
+TypeScript               2 hrs 59 mins       ███████████████████░░░░░░   76.97 % 
+Lua                      18 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.05 % 
+JavaScript               13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.69 % 
+Other                    9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.08 % 
+YAML                     7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.37 % 
 
 🔥 Editors: 
-VS Code                  4 hrs 11 mins       ████████████████░░░░░░░░░   63.51 % 
-Antigravity CLI          2 hrs 24 mins       █████████░░░░░░░░░░░░░░░░   36.49 % 
+VS Code                  3 hrs 1 min         ████████████████████░░░░░   78.20 % 
+Antigravity CLI          50 mins             █████░░░░░░░░░░░░░░░░░░░░   21.80 % 
 
 🐱‍💻 Projects: 
-SSU-Innovation           2 hrs 59 mins       ███████████░░░░░░░░░░░░░░   45.33 % 
-APM-Organics_E-Commerce  2 hrs 57 mins       ███████████░░░░░░░░░░░░░░   44.80 % 
-krajtilak                13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.45 % 
-mc-bot                   12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.23 % 
-Portfolio-V5             12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.19 % 
+APM-Organics_E-Commerce  2 hrs 57 mins       ███████████████████░░░░░░   76.37 % 
+SSU-Innovation           15 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.80 % 
+krajtilak                13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.88 % 
+mc-bot                   12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.50 % 
+Portfolio-V5             12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.44 % 
 
 💻 Operating System: 
-Linux                    6 hrs 36 mins       █████████████████████████   100.00 % 
+Linux                    3 hrs 52 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 5 hrs 17 mins (80.06%)
+⏱ AI Coding Time: 2 hrs 39 mins (68.59%)
 
-✍️ 0 lines written by AI, 35 lines written by hand (0.0% AI-written)
+✍️ 0 lines written by AI, 16 lines written by hand (0.0% AI-written)
 
 🔤 474,206 Input Tokens, 23,813 Output Tokens
 
 💵 $1.23 Estimated AI Cost This Week
 
-🧠 8 AI Sessions, 104 AI Prompts
+🧠 7 AI Sessions, 66 AI Prompts
 
 Gemini                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
-📄 Detailed Prompter — average 651 characters per prompt
-🔁 Iterative Prompter — average 13 prompts per session
+📄 Detailed Prompter — average 926 characters per prompt
+🔁 Iterative Prompter — average 9 prompts per session
 🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
 ```
 
@@ -142,7 +142,7 @@ Dart                     2 repos             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/rajtilak-2020/rajtilak-2020/main/assets/bar_graph.png)
 
 
- Last Updated on 23/10/2026 21:37:26 UTC
+ Last Updated on 24/10/2026 21:05:17 UTC
 <!--END_SECTION:waka-->
 
 
