@@ -35,11 +35,11 @@ const krajtilak = {
 ## ⌨️ My Coding Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-480%20hrs%2012%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-483%20hrs%2011%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-162%20hrs%2053%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-165%20hrs%2031%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.76%20million%20lines%20of%20code-blue?style=flat)
 
@@ -82,45 +82,45 @@ Sunday                   585 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-TypeScript               2 hrs 22 mins       █████████░░░░░░░░░░░░░░░░   36.56 % 
-Dart                     1 hr 32 mins        ██████░░░░░░░░░░░░░░░░░░░   23.83 % 
-YAML                     1 hr 26 mins        ██████░░░░░░░░░░░░░░░░░░░   22.04 % 
-JSON                     33 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.66 % 
-Other                    23 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.13 % 
+Dart                     1 hr 32 mins        █████████░░░░░░░░░░░░░░░░   35.60 % 
+YAML                     1 hr 26 mins        ████████░░░░░░░░░░░░░░░░░   32.93 % 
+JSON                     33 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.94 % 
+Other                    23 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.15 % 
+TypeScript               17 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.75 % 
 
 🔥 Editors: 
-VS Code                  4 hrs 37 mins       ██████████████████░░░░░░░   71.13 % 
-Antigravity CLI          1 hr 52 mins        ███████░░░░░░░░░░░░░░░░░░   28.87 % 
+VS Code                  2 hrs 55 mins       █████████████████░░░░░░░░   67.27 % 
+Antigravity CLI          1 hr 25 mins        ████████░░░░░░░░░░░░░░░░░   32.73 % 
 
 🐱‍💻 Projects: 
-nummo                    3 hrs 57 mins       ███████████████░░░░░░░░░░   60.86 % 
-APM-Organics_E-Commerce  2 hrs 25 mins       █████████░░░░░░░░░░░░░░░░   37.34 % 
-krajtilak                6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.57 % 
-GreenAI-2027             0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 % 
+nummo                    3 hrs 57 mins       ███████████████████████░░   90.91 % 
+APM-Organics_E-Commerce  16 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.40 % 
+krajtilak                6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.35 % 
+GreenAI-2027             0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 % 
 
 💻 Operating System: 
-Linux                    6 hrs 30 mins       █████████████████████████   100.00 % 
+Linux                    4 hrs 21 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 4 hrs 50 mins (74.4%)
+⏱ AI Coding Time: 3 hrs 26 mins (78.89%)
 
-✍️ 0 lines written by AI, 17 lines written by hand (0.0% AI-written)
+✍️ 0 lines written by AI, 3 lines written by hand (0.0% AI-written)
 
 🔤 267,769 Input Tokens, 7,974 Output Tokens
 
 💵 $0.63 Estimated AI Cost This Week
 
-🧠 5 AI Sessions, 65 AI Prompts
+🧠 4 AI Sessions, 34 AI Prompts
 
 Gemini                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
-📚 Verbose Prompter — average 1,612 characters per prompt
-🔁 Iterative Prompter — average 13 prompts per session
+📚 Verbose Prompter — average 1,633 characters per prompt
+🔁 Iterative Prompter — average 8 prompts per session
 🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
 ```
 
@@ -141,7 +141,7 @@ Dart                     2 repos             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/rajtilak-2020/rajtilak-2020/main/assets/bar_graph.png)
 
 
- Last Updated on 27/10/2026 22:31:58 UTC
+ Last Updated on 28/10/2026 22:48:12 UTC
 <!--END_SECTION:waka-->
 
 
