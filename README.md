@@ -35,9 +35,9 @@ const krajtilak = {
 ## ⌨️ My Coding Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-493%20hrs%207%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-496%20hrs%2017%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-176%20hrs%207%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-178%20hrs%2056%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-7-blue?style=flat)
 
@@ -47,7 +47,7 @@ const krajtilak = {
 
 > 📦 4.8 MB Used in GitHub's Storage 
  > 
-> 🏆 994 Contributions in the Year 2026
+> 🏆 999 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -58,21 +58,21 @@ const krajtilak = {
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                685 commits         █████░░░░░░░░░░░░░░░░░░░░   18.16 % 
-🌆 Daytime                1301 commits        █████████░░░░░░░░░░░░░░░░   34.49 % 
-🌃 Evening                1230 commits        ████████░░░░░░░░░░░░░░░░░   32.61 % 
-🌙 Night                  556 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.74 % 
+🌞 Morning                685 commits         █████░░░░░░░░░░░░░░░░░░░░   18.14 % 
+🌆 Daytime                1302 commits        █████████░░░░░░░░░░░░░░░░   34.47 % 
+🌃 Evening                1234 commits        ████████░░░░░░░░░░░░░░░░░   32.67 % 
+🌙 Night                  556 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.72 % 
 ```
 📅 **I'm Most Productive on Friday** 
 
 ```text
-Monday                   532 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.10 % 
-Tuesday                  488 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.94 % 
-Wednesday                438 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.61 % 
-Thursday                 506 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.41 % 
-Friday                   677 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.95 % 
-Saturday                 484 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.83 % 
-Sunday                   647 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.15 % 
+Monday                   532 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.09 % 
+Tuesday                  493 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.05 % 
+Wednesday                438 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.60 % 
+Thursday                 506 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.40 % 
+Friday                   677 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.92 % 
+Saturday                 484 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.81 % 
+Sunday                   647 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.13 % 
 ```
 
 
@@ -82,49 +82,49 @@ Sunday                   647 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-TypeScript               6 hrs 25 mins       ████████████░░░░░░░░░░░░░   48.39 % 
-Other                    2 hrs               ████░░░░░░░░░░░░░░░░░░░░░   15.10 % 
-C++                      1 hr 57 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.68 % 
-JSON                     1 hr 8 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.54 % 
-Markdown                 39 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.94 % 
+TypeScript               5 hrs 26 mins       █████████░░░░░░░░░░░░░░░░   35.43 % 
+C++                      4 hrs 22 mins       ███████░░░░░░░░░░░░░░░░░░   28.47 % 
+JSON                     2 hrs 58 mins       █████░░░░░░░░░░░░░░░░░░░░   19.32 % 
+Other                    1 hr 28 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.63 % 
+Text                     35 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.89 % 
 
 🔥 Editors: 
-VS Code                  11 hrs 16 mins      █████████████████████░░░░   84.83 % 
-Antigravity CLI          1 hr 48 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.58 % 
-Copilot CLI              12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.58 % 
+VS Code                  13 hrs 39 mins      ██████████████████████░░░   88.93 % 
+Antigravity CLI          1 hr 29 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.70 % 
+Copilot CLI              12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.37 % 
 
 🐱‍💻 Projects: 
-Darpan                   7 hrs 9 mins        █████████████░░░░░░░░░░░░   53.90 % 
-PulseOTA v2              3 hrs 4 mins        ██████░░░░░░░░░░░░░░░░░░░   23.13 % 
-GreenAI-2027             1 hr 46 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.40 % 
-krajtilak                52 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.61 % 
-K Rajtilak               14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.78 % 
+PulseOTA v2              7 hrs 32 mins       ████████████░░░░░░░░░░░░░   49.07 % 
+Darpan                   5 hrs 46 mins       █████████░░░░░░░░░░░░░░░░   37.59 % 
+GreenAI-2027             1 hr 13 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.92 % 
+krajtilak                26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.87 % 
+K Rajtilak               14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.54 % 
 
 💻 Operating System: 
-Windows                  10 hrs 13 mins      ███████████████████░░░░░░   77.00 % 
-Linux                    3 hrs 3 mins        ██████░░░░░░░░░░░░░░░░░░░   23.00 % 
+Windows                  14 hrs 54 mins      ████████████████████████░   97.08 % 
+Linux                    26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.92 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 11 hrs 50 mins (89.12%)
+⏱ AI Coding Time: 13 hrs 16 mins (86.48%)
 
-✍️ 0 lines written by AI, 103 lines written by hand (0.0% AI-written)
+✍️ 0 lines written by AI, 60 lines written by hand (0.0% AI-written)
 
-🔤 687,372 Input Tokens, 21,070 Output Tokens
+🔤 462,183 Input Tokens, 15,896 Output Tokens
 
-💵 $1.58 Estimated AI Cost This Week
+💵 $1.07 Estimated AI Cost This Week
 
-🧠 15 AI Sessions, 243 AI Prompts
+🧠 12 AI Sessions, 296 AI Prompts
 
 Gemini                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
-📝 Concise Prompter — average 281 characters per prompt
-🔁 Iterative Prompter — average 16 prompts per session
+📄 Detailed Prompter — average 549 characters per prompt
+🔁 Iterative Prompter — average 25 prompts per session
 🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
 ```
 
@@ -145,7 +145,7 @@ Vue                      4 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/rajtilak-2020/rajtilak-2020/main/assets/bar_graph.png)
 
 
- Last Updated on 10/11/2026 01:44:18 UTC
+ Last Updated on 10/11/2026 23:40:22 UTC
 <!--END_SECTION:waka-->
 
 
