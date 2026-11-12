@@ -47,7 +47,7 @@ const krajtilak = {
 
 > 📦 4.8 MB Used in GitHub's Storage 
  > 
-> 🏆 999 Contributions in the Year 2026
+> 🏆 1,000 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -58,18 +58,18 @@ const krajtilak = {
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                685 commits         █████░░░░░░░░░░░░░░░░░░░░   18.14 % 
-🌆 Daytime                1302 commits        █████████░░░░░░░░░░░░░░░░   34.47 % 
-🌃 Evening                1234 commits        ████████░░░░░░░░░░░░░░░░░   32.67 % 
+🌞 Morning                685 commits         █████░░░░░░░░░░░░░░░░░░░░   18.13 % 
+🌆 Daytime                1303 commits        █████████░░░░░░░░░░░░░░░░   34.49 % 
+🌃 Evening                1234 commits        ████████░░░░░░░░░░░░░░░░░   32.66 % 
 🌙 Night                  556 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.72 % 
 ```
 📅 **I'm Most Productive on Friday** 
 
 ```text
-Monday                   532 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.09 % 
+Monday                   532 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.08 % 
 Tuesday                  493 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.05 % 
-Wednesday                438 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.60 % 
-Thursday                 506 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.40 % 
+Wednesday                438 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.59 % 
+Thursday                 507 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.42 % 
 Friday                   677 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.92 % 
 Saturday                 484 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.81 % 
 Sunday                   647 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.13 % 
@@ -82,48 +82,46 @@ Sunday                   647 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-TypeScript               5 hrs 26 mins       █████████░░░░░░░░░░░░░░░░   36.54 % 
-C++                      4 hrs 22 mins       ███████░░░░░░░░░░░░░░░░░░   29.36 % 
-JSON                     2 hrs 58 mins       █████░░░░░░░░░░░░░░░░░░░░   19.93 % 
-Other                    1 hr 1 min          ██░░░░░░░░░░░░░░░░░░░░░░░   06.85 % 
-Text                     35 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.01 % 
+TypeScript               5 hrs 30 mins       ██████████░░░░░░░░░░░░░░░   38.66 % 
+C++                      4 hrs 22 mins       ████████░░░░░░░░░░░░░░░░░   30.68 % 
+JSON                     2 hrs 58 mins       █████░░░░░░░░░░░░░░░░░░░░   20.83 % 
+Text                     35 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.19 % 
+Other                    18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.18 % 
 
 🔥 Editors: 
-VS Code                  13 hrs 11 mins      ██████████████████████░░░   88.58 % 
-Antigravity CLI          1 hr 29 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.01 % 
-Copilot CLI              12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.41 % 
+VS Code                  12 hrs 41 mins      ██████████████████████░░░   89.09 % 
+Antigravity CLI          1 hr 33 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.91 % 
 
 🐱‍💻 Projects: 
-PulseOTA v2              7 hrs 32 mins       █████████████░░░░░░░░░░░░   50.61 % 
-Darpan                   5 hrs 45 mins       ██████████░░░░░░░░░░░░░░░   38.71 % 
-GreenAI-2027             1 hr 11 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.05 % 
-K Rajtilak               14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.59 % 
-PulseOTA                 9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.05 % 
+PulseOTA v2              7 hrs 32 mins       █████████████░░░░░░░░░░░░   52.88 % 
+Darpan                   5 hrs 15 mins       █████████░░░░░░░░░░░░░░░░   36.87 % 
+GreenAI-2027             1 hr 4 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.58 % 
+K Rajtilak               13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.57 % 
+PulseOTA                 9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.10 % 
 
 💻 Operating System: 
-Windows                  14 hrs 53 mins      █████████████████████████   100.00 % 
+Windows                  14 hrs 15 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 12 hrs 48 mins (86.06%)
+⏱ AI Coding Time: 12 hrs 9 mins (85.35%)
 
 ✍️ 0 lines written by AI, 60 lines written by hand (0.0% AI-written)
 
-🔤 452,218 Input Tokens, 15,059 Output Tokens
+🔤 411,685 Input Tokens, 13,216 Output Tokens
 
-💵 $1.04 Estimated AI Cost This Week
+💵 $0.98 Estimated AI Cost This Week
 
-🧠 10 AI Sessions, 289 AI Prompts
+🧠 8 AI Sessions, 290 AI Prompts
 
 Gemini                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
-📄 Detailed Prompter — average 559 characters per prompt
-🔁 Iterative Prompter — average 29 prompts per session
+📄 Detailed Prompter — average 556 characters per prompt
+🔁 Iterative Prompter — average 36 prompts per session
 🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
 ```
 
@@ -144,7 +142,7 @@ Vue                      4 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/rajtilak-2020/rajtilak-2020/main/assets/bar_graph.png)
 
 
- Last Updated on 12/11/2026 00:57:02 UTC
+ Last Updated on 12/11/2026 23:47:32 UTC
 <!--END_SECTION:waka-->
 
 
