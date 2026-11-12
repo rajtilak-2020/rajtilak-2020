@@ -35,9 +35,9 @@ const krajtilak = {
 ## ⌨️ My Coding Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-496%20hrs%2017%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-500%20hrs%2058%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-178%20hrs%2056%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-182%20hrs%2036%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-7-blue?style=flat)
 
@@ -82,49 +82,48 @@ Sunday                   647 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-TypeScript               5 hrs 26 mins       █████████░░░░░░░░░░░░░░░░   35.43 % 
-C++                      4 hrs 22 mins       ███████░░░░░░░░░░░░░░░░░░   28.47 % 
-JSON                     2 hrs 58 mins       █████░░░░░░░░░░░░░░░░░░░░   19.32 % 
-Other                    1 hr 28 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.63 % 
-Text                     35 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.89 % 
+TypeScript               5 hrs 26 mins       █████████░░░░░░░░░░░░░░░░   36.54 % 
+C++                      4 hrs 22 mins       ███████░░░░░░░░░░░░░░░░░░   29.36 % 
+JSON                     2 hrs 58 mins       █████░░░░░░░░░░░░░░░░░░░░   19.93 % 
+Other                    1 hr 1 min          ██░░░░░░░░░░░░░░░░░░░░░░░   06.85 % 
+Text                     35 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.01 % 
 
 🔥 Editors: 
-VS Code                  13 hrs 39 mins      ██████████████████████░░░   88.93 % 
-Antigravity CLI          1 hr 29 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.70 % 
-Copilot CLI              12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.37 % 
+VS Code                  13 hrs 11 mins      ██████████████████████░░░   88.58 % 
+Antigravity CLI          1 hr 29 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.01 % 
+Copilot CLI              12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.41 % 
 
 🐱‍💻 Projects: 
-PulseOTA v2              7 hrs 32 mins       ████████████░░░░░░░░░░░░░   49.07 % 
-Darpan                   5 hrs 46 mins       █████████░░░░░░░░░░░░░░░░   37.59 % 
-GreenAI-2027             1 hr 13 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.92 % 
-krajtilak                26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.87 % 
-K Rajtilak               14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.54 % 
+PulseOTA v2              7 hrs 32 mins       █████████████░░░░░░░░░░░░   50.61 % 
+Darpan                   5 hrs 45 mins       ██████████░░░░░░░░░░░░░░░   38.71 % 
+GreenAI-2027             1 hr 11 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.05 % 
+K Rajtilak               14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.59 % 
+PulseOTA                 9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.05 % 
 
 💻 Operating System: 
-Windows                  14 hrs 54 mins      ████████████████████████░   97.08 % 
-Linux                    26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.92 % 
+Windows                  14 hrs 53 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 13 hrs 16 mins (86.48%)
+⏱ AI Coding Time: 12 hrs 48 mins (86.06%)
 
 ✍️ 0 lines written by AI, 60 lines written by hand (0.0% AI-written)
 
-🔤 462,183 Input Tokens, 15,896 Output Tokens
+🔤 452,218 Input Tokens, 15,059 Output Tokens
 
-💵 $1.07 Estimated AI Cost This Week
+💵 $1.04 Estimated AI Cost This Week
 
-🧠 12 AI Sessions, 296 AI Prompts
+🧠 10 AI Sessions, 289 AI Prompts
 
 Gemini                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
-📄 Detailed Prompter — average 549 characters per prompt
-🔁 Iterative Prompter — average 25 prompts per session
+📄 Detailed Prompter — average 559 characters per prompt
+🔁 Iterative Prompter — average 29 prompts per session
 🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
 ```
 
@@ -145,7 +144,7 @@ Vue                      4 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/rajtilak-2020/rajtilak-2020/main/assets/bar_graph.png)
 
 
- Last Updated on 10/11/2026 23:40:22 UTC
+ Last Updated on 12/11/2026 00:57:02 UTC
 <!--END_SECTION:waka-->
 
 
