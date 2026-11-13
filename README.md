@@ -35,9 +35,9 @@ const krajtilak = {
 ## ⌨️ My Coding Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-500%20hrs%2058%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-501%20hrs%203%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-182%20hrs%2036%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-182%20hrs%2040%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-7-blue?style=flat)
 
@@ -82,46 +82,46 @@ Sunday                   647 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-TypeScript               5 hrs 30 mins       ██████████░░░░░░░░░░░░░░░   38.66 % 
-C++                      4 hrs 22 mins       ████████░░░░░░░░░░░░░░░░░   30.68 % 
-JSON                     2 hrs 58 mins       █████░░░░░░░░░░░░░░░░░░░░   20.83 % 
-Text                     35 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.19 % 
-Other                    18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.18 % 
+TypeScript               4 hrs 39 mins       █████████░░░░░░░░░░░░░░░░   35.10 % 
+C++                      4 hrs 22 mins       ████████░░░░░░░░░░░░░░░░░   33.01 % 
+JSON                     2 hrs 51 mins       █████░░░░░░░░░░░░░░░░░░░░   21.59 % 
+Text                     35 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.50 % 
+Other                    16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.08 % 
 
 🔥 Editors: 
-VS Code                  12 hrs 41 mins      ██████████████████████░░░   89.09 % 
-Antigravity CLI          1 hr 33 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.91 % 
+VS Code                  11 hrs 44 mins      ██████████████████████░░░   88.63 % 
+Antigravity CLI          1 hr 30 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.37 % 
 
 🐱‍💻 Projects: 
-PulseOTA v2              7 hrs 32 mins       █████████████░░░░░░░░░░░░   52.88 % 
-Darpan                   5 hrs 15 mins       █████████░░░░░░░░░░░░░░░░   36.87 % 
-GreenAI-2027             1 hr 4 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.58 % 
-K Rajtilak               13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.57 % 
-PulseOTA                 9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.10 % 
+PulseOTA v2              7 hrs 32 mins       ██████████████░░░░░░░░░░░   56.88 % 
+Darpan                   5 hrs 15 mins       ██████████░░░░░░░░░░░░░░░   39.66 % 
+K Rajtilak               13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.69 % 
+PulseOTA                 9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.18 % 
+GreenAI-2027             4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.58 % 
 
 💻 Operating System: 
-Windows                  14 hrs 15 mins      █████████████████████████   100.00 % 
+Windows                  13 hrs 14 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 12 hrs 9 mins (85.35%)
+⏱ AI Coding Time: 11 hrs 22 mins (85.9%)
 
-✍️ 0 lines written by AI, 60 lines written by hand (0.0% AI-written)
+✍️ 0 lines written by AI, 58 lines written by hand (0.0% AI-written)
 
-🔤 411,685 Input Tokens, 13,216 Output Tokens
+🔤 344,969 Input Tokens, 11,696 Output Tokens
 
-💵 $0.98 Estimated AI Cost This Week
+💵 $0.83 Estimated AI Cost This Week
 
-🧠 8 AI Sessions, 290 AI Prompts
+🧠 7 AI Sessions, 262 AI Prompts
 
 Gemini                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
-📄 Detailed Prompter — average 556 characters per prompt
-🔁 Iterative Prompter — average 36 prompts per session
+📄 Detailed Prompter — average 594 characters per prompt
+🔁 Iterative Prompter — average 37 prompts per session
 🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
 ```
 
@@ -142,7 +142,7 @@ Vue                      4 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/rajtilak-2020/rajtilak-2020/main/assets/bar_graph.png)
 
 
- Last Updated on 12/11/2026 23:47:32 UTC
+ Last Updated on 13/11/2026 23:49:13 UTC
 <!--END_SECTION:waka-->
 
 
