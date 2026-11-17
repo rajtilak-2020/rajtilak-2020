@@ -35,7 +35,7 @@ const krajtilak = {
 ## ⌨️ My Coding Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-501%20hrs%203%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-501%20hrs%2021%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-182%20hrs%2040%20mins-blue?style=flat)
 
@@ -82,46 +82,42 @@ Sunday                   702 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-C++                      4 hrs 22 mins       █████████████░░░░░░░░░░░░   51.63 % 
-JSON                     2 hrs 21 mins       ███████░░░░░░░░░░░░░░░░░░   27.76 % 
-TypeScript               40 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.95 % 
-Text                     31 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.22 % 
-Other                    12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.48 % 
+C++                      2 hrs 25 mins       ████████████░░░░░░░░░░░░░   47.66 % 
+JSON                     1 hr 52 mins        █████████░░░░░░░░░░░░░░░░   36.86 % 
+TypeScript               35 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.58 % 
+Text                     6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.19 % 
+JavaScript               5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.70 % 
 
 🔥 Editors: 
-VS Code                  7 hrs 45 mins       ███████████████████████░░   91.68 % 
-Antigravity CLI          42 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.32 % 
+VS Code                  4 hrs 46 mins       ███████████████████████░░   93.92 % 
+Antigravity CLI          18 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.08 % 
 
 🐱‍💻 Projects: 
-PulseOTA v2              7 hrs 34 mins       ██████████████████████░░░   89.34 % 
-Darpan                   30 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.04 % 
-K Rajtilak               9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.86 % 
-PulseOTA                 9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.85 % 
-GreenAI-2027             4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.91 % 
+PulseOTA v2              4 hrs 29 mins       ██████████████████████░░░   88.42 % 
+Darpan                   30 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.07 % 
+GreenAI-2027             4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.52 % 
 
 💻 Operating System: 
-Windows                  8 hrs 28 mins       █████████████████████████   100.00 % 
+Windows                  5 hrs 4 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 6 hrs 32 mins (77.3%)
+⏱ AI Coding Time: 3 hrs 44 mins (73.52%)
 
-✍️ 0 lines written by AI, 2 lines written by hand (0.0% AI-written)
+✍️ 0 lines written by AI, 1 lines written by hand (0.0% AI-written)
 
-🔤 275,082 Input Tokens, 9,878 Output Tokens
+🔤 0 Input Tokens, 0 Output Tokens
 
-💵 $0.67 Estimated AI Cost This Week
+💵 $0.00 Estimated AI Cost This Week
 
-🧠 4 AI Sessions, 136 AI Prompts
-
-Gemini                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+🧠 2 AI Sessions, 93 AI Prompts
 
 🔎 AI Coding Insights:
 🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
-📄 Detailed Prompter — average 899 characters per prompt
-🔁 Iterative Prompter — average 34 prompts per session
+📄 Detailed Prompter — average 1,132 characters per prompt
+🔁 Iterative Prompter — average 46 prompts per session
 🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
 ```
 
@@ -142,7 +138,7 @@ Vue                      4 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/rajtilak-2020/rajtilak-2020/main/assets/bar_graph.png)
 
 
- Last Updated on 15/11/2026 23:06:12 UTC
+ Last Updated on 17/11/2026 01:59:41 UTC
 <!--END_SECTION:waka-->
 
 
