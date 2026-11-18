@@ -39,9 +39,9 @@ const krajtilak = {
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-182%20hrs%2040%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-7-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-8-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.93%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.94%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -59,9 +59,9 @@ const krajtilak = {
 
 ```text
 🌞 Morning                705 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.97 % 
-🌆 Daytime                1349 commits        █████████░░░░░░░░░░░░░░░░   34.39 % 
-🌃 Evening                1305 commits        ████████░░░░░░░░░░░░░░░░░   33.27 % 
-🌙 Night                  564 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.38 % 
+🌆 Daytime                1349 commits        █████████░░░░░░░░░░░░░░░░   34.38 % 
+🌃 Evening                1305 commits        ████████░░░░░░░░░░░░░░░░░   33.26 % 
+🌙 Night                  565 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.40 % 
 ```
 📅 **I'm Most Productive on Sunday** 
 
@@ -71,7 +71,7 @@ Tuesday                  510 commits         ███░░░░░░░░�
 Wednesday                439 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.19 % 
 Thursday                 529 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.48 % 
 Friday                   700 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.84 % 
-Saturday                 496 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.64 % 
+Saturday                 497 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.67 % 
 Sunday                   702 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.89 % 
 ```
 
@@ -82,42 +82,37 @@ Sunday                   702 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-C++                      2 hrs 25 mins       ████████████░░░░░░░░░░░░░   47.66 % 
-JSON                     1 hr 52 mins        █████████░░░░░░░░░░░░░░░░   36.86 % 
-TypeScript               35 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.58 % 
-Text                     6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.19 % 
-JavaScript               5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.70 % 
+TypeScript               22 mins             █████████████████████████   100.00 % 
 
 🔥 Editors: 
-VS Code                  4 hrs 46 mins       ███████████████████████░░   93.92 % 
-Antigravity CLI          18 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.08 % 
+VS Code                  17 mins             ███████████████████░░░░░░   76.58 % 
+Antigravity CLI          5 mins              ██████░░░░░░░░░░░░░░░░░░░   23.42 % 
 
 🐱‍💻 Projects: 
-PulseOTA v2              4 hrs 29 mins       ██████████████████████░░░   88.42 % 
-Darpan                   30 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.07 % 
-GreenAI-2027             4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.52 % 
+Darpan                   17 mins             ████████████████████░░░░░   79.37 % 
+GreenAI-2027             4 mins              █████░░░░░░░░░░░░░░░░░░░░   20.63 % 
 
 💻 Operating System: 
-Windows                  5 hrs 4 mins        █████████████████████████   100.00 % 
+Windows                  22 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 3 hrs 44 mins (73.52%)
+⏱ AI Coding Time: 3 mins (17.47%)
 
-✍️ 0 lines written by AI, 1 lines written by hand (0.0% AI-written)
+✍️ 0 lines written by AI, 0 lines written by hand (0% AI-written)
 
 🔤 0 Input Tokens, 0 Output Tokens
 
 💵 $0.00 Estimated AI Cost This Week
 
-🧠 2 AI Sessions, 93 AI Prompts
+🧠 1 AI Sessions, 5 AI Prompts
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
-📄 Detailed Prompter — average 1,132 characters per prompt
-🔁 Iterative Prompter — average 46 prompts per session
+🧑‍💻 Mostly Hands-On — 0% of written lines came from AI
+📝 Concise Prompter — average 231 characters per prompt
+🔁 Iterative Prompter — average 5 prompts per session
 🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
 ```
 
@@ -138,7 +133,7 @@ Vue                      4 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/rajtilak-2020/rajtilak-2020/main/assets/bar_graph.png)
 
 
- Last Updated on 17/11/2026 01:59:41 UTC
+ Last Updated on 18/11/2026 01:08:37 UTC
 <!--END_SECTION:waka-->
 
 
