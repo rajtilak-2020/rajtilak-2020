@@ -39,7 +39,7 @@ const krajtilak = {
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-182%20hrs%2040%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-8-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.94%20million%20lines%20of%20code-blue?style=flat)
 
@@ -82,38 +82,23 @@ Sunday                   702 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-TypeScript               22 mins             █████████████████████████   100.00 % 
+TypeScript               17 mins             █████████████████████████   100.00 % 
 
 🔥 Editors: 
-VS Code                  17 mins             ███████████████████░░░░░░   76.58 % 
-Antigravity CLI          5 mins              ██████░░░░░░░░░░░░░░░░░░░   23.42 % 
+VS Code                  16 mins             ███████████████████████░░   92.51 % 
+Antigravity CLI          1 min               ██░░░░░░░░░░░░░░░░░░░░░░░   07.49 % 
 
 🐱‍💻 Projects: 
-Darpan                   17 mins             ████████████████████░░░░░   79.37 % 
-GreenAI-2027             4 mins              █████░░░░░░░░░░░░░░░░░░░░   20.63 % 
+Darpan                   17 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  22 mins             █████████████████████████   100.00 % 
+Windows                  17 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 3 mins (17.47%)
-
-✍️ 0 lines written by AI, 0 lines written by hand (0% AI-written)
-
-🔤 0 Input Tokens, 0 Output Tokens
-
-💵 $0.00 Estimated AI Cost This Week
-
-🧠 1 AI Sessions, 5 AI Prompts
-
-🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 0% of written lines came from AI
-📝 Concise Prompter — average 231 characters per prompt
-🔁 Iterative Prompter — average 5 prompts per session
-🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
+No AI Coding Activity Tracked This Week
 ```
 
 **I Mostly Code in TypeScript** 
@@ -133,7 +118,7 @@ Vue                      4 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/rajtilak-2020/rajtilak-2020/main/assets/bar_graph.png)
 
 
- Last Updated on 19/11/2026 00:39:43 UTC
+ Last Updated on 20/11/2026 00:48:29 UTC
 <!--END_SECTION:waka-->
 
 
