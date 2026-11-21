@@ -39,7 +39,7 @@ const krajtilak = {
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-182%20hrs%2040%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.94%20million%20lines%20of%20code-blue?style=flat)
 
@@ -82,23 +82,40 @@ Sunday                   702 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-TypeScript               17 mins             █████████████████████████   100.00 % 
+TypeScript               40 mins             █████████████████████████   100.00 % 
 
 🔥 Editors: 
-VS Code                  16 mins             ███████████████████████░░   92.51 % 
-Antigravity CLI          1 min               ██░░░░░░░░░░░░░░░░░░░░░░░   07.49 % 
+VS Code                  25 mins             ████████████████░░░░░░░░░   63.13 % 
+Antigravity CLI          14 mins             █████████░░░░░░░░░░░░░░░░   36.87 % 
 
 🐱‍💻 Projects: 
-Darpan                   17 mins             █████████████████████████   100.00 % 
+GreenAI-2027             22 mins             ██████████████░░░░░░░░░░░   55.54 % 
+Darpan                   17 mins             ███████████░░░░░░░░░░░░░░   44.46 % 
 
 💻 Operating System: 
-Windows                  17 mins             █████████████████████████   100.00 % 
+Windows                  40 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-No AI Coding Activity Tracked This Week
+⏱ AI Coding Time: 13 mins (33.53%)
+
+✍️ 0 lines written by AI, 0 lines written by hand (0% AI-written)
+
+🔤 2,324 Input Tokens, 150 Output Tokens
+
+💵 $0.01 Estimated AI Cost This Week
+
+🧠 1 AI Sessions, 1 AI Prompts
+
+Gemini                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+🔎 AI Coding Insights:
+🧑‍💻 Mostly Hands-On — 0% of written lines came from AI
+📝 Concise Prompter — average 280 characters per prompt
+🎯 One-Shot Prompter — average 1 prompts per session
+🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -118,7 +135,7 @@ Vue                      4 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/rajtilak-2020/rajtilak-2020/main/assets/bar_graph.png)
 
 
- Last Updated on 20/11/2026 00:48:29 UTC
+ Last Updated on 21/11/2026 00:08:02 UTC
 <!--END_SECTION:waka-->
 
 
