@@ -35,11 +35,11 @@ const krajtilak = {
 ## ⌨️ My Coding Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-501%20hrs%2043%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-502%20hrs%2037%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-182%20hrs%2054%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-183%20hrs%2022%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.94%20million%20lines%20of%20code-blue?style=flat)
 
@@ -82,27 +82,26 @@ Sunday                   702 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-TypeScript               1 hr 16 mins        ████████████████████░░░░░   80.46 % 
-CSV                      18 mins             █████░░░░░░░░░░░░░░░░░░░░   19.10 % 
-HTML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.44 % 
+TypeScript               58 mins             ███████████████████░░░░░░   75.93 % 
+CSV                      18 mins             ██████░░░░░░░░░░░░░░░░░░░   23.53 % 
+HTML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.54 % 
 
 🔥 Editors: 
-VS Code                  1 hr 7 mins         ██████████████████░░░░░░░   71.50 % 
-Antigravity CLI          26 mins             ███████░░░░░░░░░░░░░░░░░░   28.50 % 
+VS Code                  49 mins             ████████████████░░░░░░░░░   64.89 % 
+Antigravity CLI          26 mins             █████████░░░░░░░░░░░░░░░░   35.11 % 
 
 🐱‍💻 Projects: 
-GreenAI-2027             48 mins             █████████████░░░░░░░░░░░░   50.79 % 
-Portfolio-V5             28 mins             ████████░░░░░░░░░░░░░░░░░   30.39 % 
-Darpan                   17 mins             █████░░░░░░░░░░░░░░░░░░░░   18.82 % 
+GreenAI-2027             48 mins             ████████████████░░░░░░░░░   62.57 % 
+Portfolio-V5             28 mins             █████████░░░░░░░░░░░░░░░░   37.43 % 
 
 💻 Operating System: 
-Windows                  1 hr 34 mins        █████████████████████████   100.00 % 
+Windows                  1 hr 16 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 42 mins (44.58%)
+⏱ AI Coding Time: 42 mins (54.92%)
 
 ✍️ 0 lines written by AI, 7 lines written by hand (0.0% AI-written)
 
@@ -138,7 +137,7 @@ Vue                      4 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/rajtilak-2020/rajtilak-2020/main/assets/bar_graph.png)
 
 
- Last Updated on 21/11/2026 23:33:59 UTC
+ Last Updated on 22/11/2026 23:46:08 UTC
 <!--END_SECTION:waka-->
 
 
