@@ -35,9 +35,9 @@ const krajtilak = {
 ## ⌨️ My Coding Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-504%20hrs-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-504%20hrs%2043%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-183%20hrs%2058%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-184%20hrs%2023%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-7-blue?style=flat)
 
@@ -89,8 +89,8 @@ Other                    12 mins             █░░░░░░░░░░�
 HTML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 % 
 
 🔥 Editors: 
-VS Code                  3 hrs 1 min         █████████████████████░░░░   84.38 % 
-Antigravity CLI          33 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.62 % 
+VS Code                  3 hrs 2 mins        █████████████████████░░░░   84.99 % 
+Antigravity CLI          32 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.01 % 
 
 🐱‍💻 Projects: 
 APM-Organics_E-Commerce  2 hrs 2 mins        ██████████████░░░░░░░░░░░   57.17 % 
@@ -141,7 +141,7 @@ Vue                      4 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/rajtilak-2020/rajtilak-2020/main/assets/bar_graph.png)
 
 
- Last Updated on 26/11/2026 01:57:06 UTC
+ Last Updated on 27/11/2026 01:54:22 UTC
 <!--END_SECTION:waka-->
 
 
