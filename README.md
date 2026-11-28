@@ -82,44 +82,44 @@ Sunday                   702 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-TypeScript               1 hr 33 mins        ███████████░░░░░░░░░░░░░░   43.60 % 
-Text                     1 hr 30 mins        ██████████░░░░░░░░░░░░░░░   41.92 % 
-CSV                      18 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.39 % 
-Other                    12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.89 % 
-HTML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 % 
+Text                     1 hr 30 mins        ████████████░░░░░░░░░░░░░   46.75 % 
+TypeScript               1 hr 11 mins        █████████░░░░░░░░░░░░░░░░   37.11 % 
+CSV                      18 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.36 % 
+Other                    12 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.57 % 
+HTML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 % 
 
 🔥 Editors: 
-VS Code                  3 hrs 2 mins        █████████████████████░░░░   84.99 % 
-Antigravity CLI          32 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.01 % 
+VS Code                  2 hrs 54 mins       ███████████████████████░░   90.22 % 
+Antigravity CLI          18 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.78 % 
 
 🐱‍💻 Projects: 
-APM-Organics_E-Commerce  2 hrs 2 mins        ██████████████░░░░░░░░░░░   57.17 % 
-GreenAI-2027             51 mins             ██████░░░░░░░░░░░░░░░░░░░   24.07 % 
-Portfolio-V5             28 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.35 % 
-APM Products             11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.42 % 
+APM-Organics_E-Commerce  2 hrs 2 mins        ████████████████░░░░░░░░░   63.75 % 
+GreenAI-2027             29 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.32 % 
+Portfolio-V5             28 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.88 % 
+APM Products             11 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.04 % 
 
 💻 Operating System: 
-Windows                  3 hrs 35 mins       █████████████████████████   100.00 % 
+Windows                  3 hrs 12 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 43 mins (47.89%)
+⏱ AI Coding Time: 1 hr 29 mins (46.46%)
 
 ✍️ 0 lines written by AI, 14 lines written by hand (0.0% AI-written)
 
-🔤 410,461 Input Tokens, 25,446 Output Tokens
+🔤 408,137 Input Tokens, 25,296 Output Tokens
 
-💵 $1.17 Estimated AI Cost This Week
+💵 $1.16 Estimated AI Cost This Week
 
-🧠 6 AI Sessions, 18 AI Prompts
+🧠 5 AI Sessions, 17 AI Prompts
 
 Gemini                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
-📝 Concise Prompter — average 336 characters per prompt
+📝 Concise Prompter — average 339 characters per prompt
 🔁 Iterative Prompter — average 3 prompts per session
 🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
 ```
@@ -141,7 +141,7 @@ Vue                      4 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/rajtilak-2020/rajtilak-2020/main/assets/bar_graph.png)
 
 
- Last Updated on 27/11/2026 01:54:22 UTC
+ Last Updated on 28/11/2026 01:36:38 UTC
 <!--END_SECTION:waka-->
 
 
